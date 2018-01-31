@@ -1,6 +1,10 @@
 class ProductsController < ApplicationController
 
   def index
-    @products = Product.all
+    if params[:brand]
+      @products = Product.where(:brand => params[:brand])
+    else
+      @products = Product.all
+    end
   end
 end

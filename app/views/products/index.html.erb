@@ -2,26 +2,34 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Products</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   </head>
   <body>
     <h1>Available Products</h1>
-    <h3>Choose Brand:</h3>
-      <select class="" name="">
-        <option value="All" selected>All</option>
-        <option value="Coach">Coach</option>
-        <option value="DKNY">DKNY</option>
-        <option value="Michael Kors">Michael Kors</option>
-        <option value="Ralph Lauren">Ralph Lauren</option>
-        <option value="Rebecca Minkoff">Rebecca Minkoff</option>
-        <option value="Roberto Cavalli">Roberto Cavalli</option>
-        <option value="Tory Burch">Tory Burch</option>
-        <option value="Yves Saint Laurent">Yves Saint Laurent</option>
-      </select>
+    <div class="dropdown">
+     <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+       Choose Brand
+     <span class="caret"></span></button>
+       <ul class="dropdown-menu">
+         <li><a href="products">All</a></li>
+         <li><a href="?brand=Coach">Coach</a></li>
+         <li><a href="?brand=Michael Kors">Michael Kors</a></li>
+         <li><a href="?brand=Ralph Lauren">Ralph Lauren</a></li>
+         <li><a href="?brand=Rebecca Minkoff">Rebecca Minkoff</a></li>
+         <li><a href="?brand=Roberto Cavalli">Roberto Cavalli</a></li>
+         <li><a href="?brand=Tory Burch">Tory Burch</a></li>
+         <li><a href="?brand=Yves Saint Laurent">Yves Saint Laurent</a></li>
+       </ul>
+     </div>
+
     <% @products.each do |product| %>
     <ul>
       <%= image_tag product.images[0] %>
-      <li>Name: <%= product.name %></li>
+      <li><%= product.name %></li>
       <li>Brand: <%= product.brand %></li>
       <li>Style: <%= product.style %></li>
       <li>Color: <%= product.color %></li>
