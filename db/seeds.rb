@@ -7,7 +7,10 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 Product.destroy_all
 
-Product.create(name: 'bag1',
+
+#YSL
+
+Product.create(name: 'Loulou Monogram',
   brand: 'Yves Saint Laurent',
   images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517357718/ysl1_gmn0cf.jpg'],
   style: '487219DV7261000-BLACK',
@@ -22,9 +25,9 @@ Made in Italy.',
   retail_price: 1990.00,
   price: 1150.00,
   quantity: 4,
-  samples: [])
+  samples: ['https://www.ysl.com/us/shop-product/women/handbags#{"ytosQuery":"true","department":"bagsw","gender":"D","season":"A,P,E","yurirulename":"searchwithdepartment","page":"3","productsPerPage":"16","suggestion":"false","totalPages":"18","totalItems":"276","partialLoadedItems":"16","itemsToLoadOnNextPage":"16"}'])
 
-  Product.create(name: 'bag2',
+  Product.create(name: 'Loulou Monogram',
     brand: 'Yves Saint Laurent',
     images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517357718/ysl2_xceu4c.jpg'],
     style: '487219DV7261000-BURG',
@@ -36,9 +39,9 @@ Made in Italy. ',
     retail_price: 1990.00,
     price: 1150.00,
     quantity: 1,
-    samples: [])
+    samples: ['https://www.ysl.com/us/shop-product/women/handbags#{"ytosQuery":"true","department":"bagsw","gender":"D","season":"A,P,E","yurirulename":"searchwithdepartment","page":"3","productsPerPage":"16","suggestion":"false","totalPages":"18","totalItems":"276","partialLoadedItems":"16","itemsToLoadOnNextPage":"16"}'])
 
-    Product.create(name: 'bag3',
+    Product.create(name: 'College',
       brand: 'Yves Saint Laurent',
       images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517357718/ysl3_bgmsqk.jpg'],
       style: '487212BRM041242-BLACK',
@@ -51,6 +54,109 @@ Interior, cotton/leather lining.
 7.9"H x 12.6"W x 3.4"D.
 Made in Italy.',
       retail_price: 2590.00,
-      price: 1476.00,
+      price: 1476.30,
       quantity: 4,
-      samples: [])
+      samples: ['https://www.ysl.com/us/shop-product/women/handbags#{"ytosQuery":"true","department":"bagsw","gender":"D","season":"A,P,E","yurirulename":"searchwithdepartment","page":"3","productsPerPage":"16","suggestion":"false","totalPages":"18","totalItems":"276","partialLoadedItems":"16","itemsToLoadOnNextPage":"16"}'])
+
+      Product.create(name: 'Crocodile',
+        brand: 'Yves Saint Laurent',
+        images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430920/ysl4_ltg3gt.jpg'],
+        style: '442906DZE0E1000-BLACK',
+        color: 'Black',
+        description: 'Saint Laurent crocodile-embossed leather crossbody bag.
+Silvertone hardware.
+Chain and leather shoulder strap can be doubled, 11"-20.1" drop.
+Flap top with logo lettering; snap closure.
+Hanging leather encased key ring.
+Slip pocket under flap.
+Back slip pocket.
+Divided interior; suede lining.
+6.2"H x 8.6"W x 3.1"D.
+"Sunset" is made in Italy.',
+        retail_price: 2290.00,
+        price: 1305.30,
+        quantity: 2,
+        samples: ['https://www.ysl.com/us/shop-product/women/handbags#{"ytosQuery":"true","department":"bagsw","gender":"D","season":"A,P,E","yurirulename":"searchwithdepartment","page":"3","productsPerPage":"16","suggestion":"false","totalPages":"18","totalItems":"276","partialLoadedItems":"16","itemsToLoadOnNextPage":"16"}'])
+
+#COACH
+
+Product.create(name: 'Mini Sierra Satchel In Glitter Crossgrain Leather',
+  brand: 'Coach',
+  images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430933/coach1_nqxhtx.jpg'],
+  style: 'F11927',
+  color: 'IML7C',
+  description: 'Glitter crossgrain leather
+Inside zip and multifunction pockets
+Zip closure, fabric lining
+Handles with 3 1/2" drop
+Outside slip pocket
+Detachable strap with 21 1/2" for shoulder or crossbody wear
+10 1/4" (L) x 7" (H) x 4" (W)Glitter crossgrain leather
+Inside zip and multifunction pockets
+Zip closure, fabric lining
+Handles with 3 1/2" drop
+Outside slip pocket
+Detachable strap with 21 1/2" for shoulder or crossbody wear
+10 1/4" (L) x 7" (H) x 4" (W)Glitter crossgrain leather
+Inside zip and multifunction pockets
+Zip closure, fabric lining
+Handles with 3 1/2" drop
+Outside slip pocket
+Detachable strap with 21 1/2" for shoulder or crossbody wear
+10 1/4" (L) x 7" (H) x 4" (W)',
+  retail_price: 295.00,
+  price: 162.25,
+  quantity: 1,
+  samples: ['https://www.coach.com/shop/women-handbags-new-arrivals'])
+
+  Product.create(name: 'Mini Sierra Satchel In Signature',
+    brand: 'Coach',
+    images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430933/coach2_tuc4wn.jpg'],
+    style: 'F58295',
+    color: 'IMAA8',
+    description: 'Signature coated canvas
+Inside zip and multifunction pockets
+Zip-top closure, fabric lining
+Handles with 3 1/2" drop
+Longer strap with 21 1/2" for shoulder or crossbody wear
+10 1/4" (L) x 7" (H) x 4" (W)Signature coated canvas
+Inside zip and multifunction pockets
+Zip-top closure, fabric lining
+Handles with 3 1/2" drop
+Longer strap with 21 1/2" for shoulder or crossbody wear
+10 1/4" (L) x 7" (H) x 4" (W)Signature coated canvas
+Inside zip and multifunction pockets
+Zip-top closure, fabric lining
+Handles with 3 1/2" drop
+Longer strap with 21 1/2" for shoulder or crossbody wear
+10 1/4" (L) x 7" (H) x 4" (W)',
+    retail_price: 295.00,
+    price: 162.25,
+    quantity: 2,
+    samples: ['https://www.coach.com/shop/women-handbags-new-arrivals'])
+
+    Product.create(name: 'Mini Sierra Satchel In Posey Cluster Floral Print',
+      brand: 'Coach',
+      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430933/coach2_tuc4wn.jpg'],
+      style: 'F57621',
+      color: 'SVPMC',
+      description: 'Printed coated canvas
+Inside zip and multifunction pockets
+Zip-top closure, fabric lining
+Handles with 3 1/2" drop
+Long strap with 21 1/2" for shoulder or crossbody wear
+10 1/4" (L) x 7" (H) x 4" (W)Printed coated canvas
+Inside zip and multifunction pockets
+Zip-top closure, fabric lining
+Handles with 3 1/2" drop
+Long strap with 21 1/2" for shoulder or crossbody wear
+10 1/4" (L) x 7" (H) x 4" (W)Printed coated canvas
+Inside zip and multifunction pockets
+Zip-top closure, fabric lining
+Handles with 3 1/2" drop
+Long strap with 21 1/2" for shoulder or crossbody wear
+10 1/4" (L) x 7" (H) x 4" (W)',
+      retail_price: 295.00,
+      price: 162.25,
+      quantity: 6,
+      samples: ['https://www.coach.com/shop/women-handbags-new-arrivals'])
