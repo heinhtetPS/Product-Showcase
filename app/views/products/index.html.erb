@@ -7,40 +7,54 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <%= stylesheet_link_tag "application" %>
   </head>
   <body>
-    <h1>Available Products</h1>
-    <div class="dropdown">
-     <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
-       Choose Brand
-     <span class="caret"></span></button>
-       <ul class="dropdown-menu">
-         <li><a href="products">All</a></li>
-         <li><a href="?brand=Coach">Coach</a></li>
-         <li><a href="?brand=Michael Kors">Michael Kors</a></li>
-         <li><a href="?brand=Ralph Lauren">Ralph Lauren</a></li>
-         <li><a href="?brand=Rebecca Minkoff">Rebecca Minkoff</a></li>
-         <li><a href="?brand=Roberto Cavalli">Roberto Cavalli</a></li>
-         <li><a href="?brand=Tory Burch">Tory Burch</a></li>
-         <li><a href="?brand=Yves Saint Laurent">Yves Saint Laurent</a></li>
-       </ul>
-     </div>
+    <div class="page-container">
 
-    <% @products.each do |product| %>
-    <ul>
-      <%= image_tag product.images[0] %>
-      <li><%= product.name %></li>
-      <li>Brand: <%= product.brand %></li>
-      <li>Style: <%= product.style %></li>
-      <li>Color: <%= product.color %></li>
-      <li>Description: <%= product.description %></li>
-      <li>Retail Price: $<%= product.retail_price %></li>
-      <!-- <li>Cost: $<%= product.price %></li> -->
-      <li>Quantity: <%= product.quantity %></li>
-      <!-- <li>Total: $<%= product.quantity * product.price %></li> -->
-      <li><a href="<%= product.samples[0] %>">Link to Sample</a></li>
+      <h1 class="main-title">Available Products</h1>
+      <div class="dropdown">
+       <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+         Choose Brand
+       <span class="caret"></span></button>
+         <ul class="dropdown-menu">
+           <li><a href="products">All</a></li>
+           <li><a href="?brand=Coach">Coach</a></li>
+           <li><a href="?brand=Michael Kors">Michael Kors</a></li>
+           <li><a href="?brand=Ralph Lauren">Ralph Lauren</a></li>
+           <li><a href="?brand=Rebecca Minkoff">Rebecca Minkoff</a></li>
+           <li><a href="?brand=Roberto Cavalli">Roberto Cavalli</a></li>
+           <li><a href="?brand=Tory Burch">Tory Burch</a></li>
+           <li><a href="?brand=Yves Saint Laurent">Yves Saint Laurent</a></li>
+         </ul>
+       </div>
 
-    </ul>
-    <% end %>
+      <div class="product-super">
+      <% @products.each do |product| %>
+          <div class="product-container">
+            <div class="product-image">
+              <%= image_tag product.images[0] %>
+            </div>
+            <div class="product-info">
+              <ul>
+                <li class="p-name"><%= product.name %></li>
+                <li>Brand: <%= product.brand %></li>
+                <li>Style: <%= product.style %></li>
+                <li>Color: <%= product.color %></li>
+                <li>Description: <%= product.description %></li>
+                <li>Retail Price: $<%= product.retail_price %></li>
+                <!-- <li>Cost: $<%= product.price %></li> -->
+                <li>Quantity: <%= product.quantity %></li>
+                <!-- <li>Total: $<%= product.quantity * product.price %></li> -->
+                <li><a href="<%= product.samples[0] %>">Link to Sample</a></li>
+              </ul>
+            </div>
+
+          </div>
+      <% end %>
+      </div>
+
+    </div>
+
   </body>
 </html>
