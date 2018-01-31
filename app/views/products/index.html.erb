@@ -5,13 +5,18 @@
     <title>Products</title>
   </head>
   <body>
-    <h1>All products</h1>
+    <h1>Available Products</h1>
     <% @products.each do |product| %>
     <ul>
+      <%= image_tag product.image %>
       <li>Name: <%= product.name %></li>
       <li>Style: <%= product.style %></li>
       <li>Color: <%= product.color %></li>
-      <li>Description: <%= product.description %></li>     
+      <li>Description: <%= product.description %></li>
+      <li>Retail Price: $<%= product.retail_price %></li>
+      <li>Cost: $<%= product.price %></li>
+      <li>Quantity: <%= product.quantity %></li>
+      <li>Total: $<%= product.quantity * product.price %></li>
     </ul>
     <% end %>
   </body>
