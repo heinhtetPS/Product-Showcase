@@ -5,6 +5,14 @@
     <title>Products</title>
   </head>
   <body>
-    Hello Test
+    <h1>All products</h1>
+    <% @products.each do |product| %>
+    <ul>
+      <li>Name: <%= product.name %></li>
+      <li>Style: <%= product.style %></li>
+      <li>Color: <%= product.color %></li>
+      <li>Description: <%= product.description %></li>     
+    </ul>
+    <% end %>
   </body>
 </html>
