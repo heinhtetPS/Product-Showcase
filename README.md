@@ -21,4 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+TODO
+
+- make header and footer
+- do something for homepage
+- add sample links
