@@ -6,17 +6,31 @@
   </head>
   <body>
     <h1>Available Products</h1>
+    <h3>Choose Brand:</h3>
+      <select class="" name="">
+        <option value="All" selected>All</option>
+        <option value="Coach">Coach</option>
+        <option value="DKNY">DKNY</option>
+        <option value="Michael Kors">Michael Kors</option>
+        <option value="Ralph Lauren">Ralph Lauren</option>
+        <option value="Rebecca Minkoff">Rebecca Minkoff</option>
+        <option value="Roberto Cavalli">Roberto Cavalli</option>
+        <option value="Tory Burch">Tory Burch</option>
+        <option value="Yves Saint Laurent">Yves Saint Laurent</option>
+      </select>
     <% @products.each do |product| %>
     <ul>
-      <%= image_tag product.image %>
+      <%= image_tag product.images[0] %>
       <li>Name: <%= product.name %></li>
+      <li>Brand: <%= product.brand %></li>
       <li>Style: <%= product.style %></li>
       <li>Color: <%= product.color %></li>
       <li>Description: <%= product.description %></li>
       <li>Retail Price: $<%= product.retail_price %></li>
-      <li>Cost: $<%= product.price %></li>
+      <!-- <li>Cost: $<%= product.price %></li> -->
       <li>Quantity: <%= product.quantity %></li>
-      <li>Total: $<%= product.quantity * product.price %></li>
+      <!-- <li>Total: $<%= product.quantity * product.price %></li> -->
+      <li>Sample(s): <%= product.samples[0] %></li>
     </ul>
     <% end %>
   </body>
