@@ -13,5 +13,5 @@
  *= require_tree .
  *= require_self
  */
-requre reset.css
+require reset.css
 require generic.css
