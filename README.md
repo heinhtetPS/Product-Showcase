@@ -1,28 +1,23 @@
-# README
+# [Live Link](https://bernies-shop.herokuapp.com/products)
+======================
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This web page is a sample catalog for high-end fashion accessories. It is built with a Ruby on Rails backend that supports a PostgreSql database which keeps track of all items and their attributes. Images are offloaded to a cloud service in order to facilitate scalability. This is a work in progress...
 
-Things you may want to cover:
 
-* Ruby version
+## Features and Implementation
+================
 
-* System dependencies
+Coming soon...
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-TODO
+## TODO-LIST
+=====================
 
 - make header and footer
+
 - do something for homepage
-- add sample links
+
+- make form for submitting new products
+
+- Expand Business attributes to accommodate additional fields
+
+- Maybe remove null false for non-essential fields  
