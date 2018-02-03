@@ -78,6 +78,148 @@ Divided interior; suede lining.
         quantity: 2,
         samples: ['https://www.ysl.com/us/shop-product/women/handbags#{"ytosQuery":"true","department":"bagsw","gender":"D","season":"A,P,E","yurirulename":"searchwithdepartment","page":"3","productsPerPage":"16","suggestion":"false","totalPages":"18","totalItems":"276","partialLoadedItems":"16","itemsToLoadOnNextPage":"16"}'])
 
+        Product.create(name: 'Icy White',
+          brand: 'Yves Saint Laurent',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430920/ysl5_wrcf9b.jpg'],
+          style: '442906DZE0E1950-ICYWHT',
+          color: 'Icy White',
+          description: 'Saint Laurent crocodile-embossed leather crossbody bag.
+Silvertone hardware.
+Chain and leather shoulder strap can be doubled, 11"-20.1" drop.
+Flap top with logo lettering; snap closure.
+Hanging leather encased key ring.
+Slip pocket under flap.
+Back slip pocket.
+Divided interior; suede lining.
+6.2"H x 8.6"W x 3.1"D.
+"Sunset" is made in Italy.',
+          retail_price: 2290.00,
+          price: 1305.30,
+          quantity: 1,
+          samples: ['https://www.ysl.com/us/shop-product/women/handbags#{"ytosQuery":"true","department":"bagsw","gender":"D","season":"A,P,E","yurirulename":"searchwithdepartment","page":"3","productsPerPage":"16","suggestion":"false","totalPages":"18","totalItems":"276","partialLoadedItems":"16","itemsToLoadOnNextPage":"16"}'])
+
+          Product.create(name: 'Green',
+            brand: 'Yves Saint Laurent',
+            images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430920/ysl6_k83woq.jpg'],
+            style: '442906DZE0E1950-GRN',
+            color: 'Green',
+            description: 'Saint Laurent crossbody bag in  python leather.
+Chain and python shoulder strap can be doubled, 13.5-24.5" drop.
+Flap top with YSL logo; snap closure.
+Exterior, hanging key ring; accordion sides.
+Slip pocket under flap.
+6"H x 8.5"W x 2"D.
+"Sunset" is made in Italy.',
+            retail_price: 3450.00,
+            price: 1966.50,
+            quantity: 1,
+            samples: ['https://www.ysl.com/us/shop-product/women/handbags#{"ytosQuery":"true","department":"bagsw","gender":"D","season":"A,P,E","yurirulename":"searchwithdepartment","page":"3","productsPerPage":"16","suggestion":"false","totalPages":"18","totalItems":"276","partialLoadedItems":"16","itemsToLoadOnNextPage":"16"}'])
+
+            Product.create(name: 'Bellechase',
+              brand: 'Yves Saint Laurent',
+              images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430920/ysl7_w0ga3i.jpg'],
+              style: '482051D420D1000-BLACK',
+              color: 'Black',
+              description: 'Bellechase Saint Laurent flap front bag with top handle and removable, adjustable shoulder strap
+Dimensions 8.6  6.2  3.5 inches
+100% calf-skin leather
+Suede lining
+Saint Laurent signature engraved push-in closure
+Brushed silver-toned hardware
+Slot pocket under flap
+Interior slot pocket
+Handle drop: 2,5cm
+Strap drop: 54cm
+',
+              retail_price: 1890.00,
+              price: 1100.00,
+              quantity: 1,
+              samples: ['https://www.ysl.com/us/shop-product/women/handbags#{"ytosQuery":"true","department":"bagsw","gender":"D","season":"A,P,E","yurirulename":"searchwithdepartment","page":"3","productsPerPage":"16","suggestion":"false","totalPages":"18","totalItems":"276","partialLoadedItems":"16","itemsToLoadOnNextPage":"16"}'])
+
+              Product.create(name: 'Bellechase',
+                brand: 'Yves Saint Laurent',
+                images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430920/ysl8_njnleu.jpg'],
+                style: '482051D420D1000-BURG',
+                color: 'Burgundy',
+                description: 'Bell Chase Saint Laurent flap front bag with top handle and removable, adjustable shoulder strap.
+Dimensions 8.6 6.2  3.5 inches
+100% calf-skin leather
+Suede lining
+Saint Laurent signature engraved push-in closure brushed silver-toned hardwareslot pocket under flapinterior slot pocketinterior slot pocketinterior slot pocket Interior slot pockethandle drop: 2,5cm
+Strap drop: 54cm',
+                retail_price: 2450.00,
+                price: 1396.50,
+                quantity: 1,
+                samples: ['https://www.ysl.com/us/shop-product/women/handbags#{"ytosQuery":"true","department":"bagsw","gender":"D","season":"A,P,E","yurirulename":"searchwithdepartment","page":"3","productsPerPage":"16","suggestion":"false","totalPages":"18","totalItems":"276","partialLoadedItems":"16","itemsToLoadOnNextPage":"16"}'])
+
+                Product.create(name: 'College',
+                  brand: 'Yves Saint Laurent',
+                  images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430920/ysl9_onx2bo.jpg'],
+                  style: '428056BRM042721-BEIGE',
+                  color: 'Beige',
+                  description: 'Classic Medium Collège bag in dark beige matelassé leather
+Dimensions 9.4  5.7  2.1 inches
+100% lambskin
+Grosgrain lining
+Magnetic snap closure
+Brushed silver-toned hardware
+Exterior back slot pocket
+Interior central zip compartment, 1 slot pocket
+Handle drop: 6.5cm, strap drop: 55cm',
+                  retail_price: 2450.00,
+                  price: 1396.50,
+                  quantity: 1,
+                  samples: ['https://www.ysl.com/us/shop-product/women/handbags#{"ytosQuery":"true","department":"bagsw","gender":"D","season":"A,P,E","yurirulename":"searchwithdepartment","page":"3","productsPerPage":"16","suggestion":"false","totalPages":"18","totalItems":"276","partialLoadedItems":"16","itemsToLoadOnNextPage":"16"}'])
+
+                  Product.create(name: 'College',
+                    brand: 'Yves Saint Laurent',
+                    images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430920/ysl10_bm3iaq.jpg'],
+                    style: '428056BRM042721-BLUE',
+                    color: 'Blue',
+                    description: 'Classic medium collège bag in dark beige matelassé leather
+Dimensions 9.4  5.7  2.1 inches
+100% lambskin
+Grosgrain lining
+Magnetic snap closure
+Brushed silver-toned hardware
+Exterior back slot pocket
+Interior central zip compartment, 1 slot pocket
+Handle drop: 6.5cm, strap drop: 55cm',
+                    retail_price: 2450.00,
+                    price: 1396.50,
+                    quantity: 1,
+                    samples: ['https://www.ysl.com/us/shop-product/women/handbags#{"ytosQuery":"true","department":"bagsw","gender":"D","season":"A,P,E","yurirulename":"searchwithdepartment","page":"3","productsPerPage":"16","suggestion":"false","totalPages":"18","totalItems":"276","partialLoadedItems":"16","itemsToLoadOnNextPage":"16"}'])
+
+                    Product.create(name: 'Sunset',
+                      brand: 'Yves Saint Laurent',
+                      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430920/ysl11_qdya6o.jpg'],
+                      style: '442906AB80E1000-BLACK',
+                      color: 'Black',
+                      description: 'Medium Sunset bag in black patent leathermonogram Saint Laurent bag with front flap, adorned with side gussets, chain shoulder strap that can be worn across the body or doubled on the shoulder, a leather-encased key ring and interlocking ysl signature in metal Dimensions 8.6  6.2  3.1 inches 100% calf-skin leather Suede lining Magnetic snap closure Oxidized nickel hardware Gusseted slot pocket under the flap and exterior slot pocket on the back Interior slot pocket Strap drop: 51 cm',
+                      retail_price: 2290.00,
+                      price: 1305.30,
+                      quantity: 2,
+                      samples: ['https://www.ysl.com/us/shop-product/women/handbags#{"ytosQuery":"true","department":"bagsw","gender":"D","season":"A,P,E","yurirulename":"searchwithdepartment","page":"3","productsPerPage":"16","suggestion":"false","totalPages":"18","totalItems":"276","partialLoadedItems":"16","itemsToLoadOnNextPage":"16"}'])
+
+                      Product.create(name: 'Sunset',
+                        brand: 'Yves Saint Laurent',
+                        images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430921/ysl12_ixn5q0.jpg'],
+                        style: '464673DZG0E2406-ARMGRN',
+                        color: 'Green',
+                        description: 'Medium Sunset satchel in army green grained leather
+Dimensions 8.6  6.2  3.1 inches
+100% calfskin leather
+Suede lining
+Magnetic snap closure
+Oxidized nickel hardware
+Gusseted slot pocket under flap and exterior back slot pocket
+Interior slot pocket
+Strap drop: 54cm',
+                        retail_price: 2150.00,
+                        price: 1255.50,
+                        quantity: 1,
+                        samples: ['https://www.ysl.com/us/shop-product/women/handbags#{"ytosQuery":"true","department":"bagsw","gender":"D","season":"A,P,E","yurirulename":"searchwithdepartment","page":"3","productsPerPage":"16","suggestion":"false","totalPages":"18","totalItems":"276","partialLoadedItems":"16","itemsToLoadOnNextPage":"16"}'])
+
 #COACH
 
 Product.create(name: 'Mini Sierra Satchel In Glitter Crossgrain Leather',
