@@ -227,6 +227,7 @@ Product.create(name: 'Mini Sierra Satchel In Glitter Crossgrain Leather',
   images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430933/coach1_nqxhtx.jpg'],
   style: 'F11927',
   color: 'IML7C',
+  SKU: 'COACH-F11927-IML7C',
   description: 'Glitter crossgrain leather
 Inside zip and multifunction pockets
 Zip closure, fabric lining
@@ -256,6 +257,7 @@ Detachable strap with 21 1/2" for shoulder or crossbody wear
     images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430933/coach2_tuc4wn.jpg'],
     style: 'F58295',
     color: 'IMAA8',
+    SKU: 'COACH-F58295-IMAA8',
     description: 'Signature coated canvas
 Inside zip and multifunction pockets
 Zip-top closure, fabric lining
@@ -282,6 +284,7 @@ Longer strap with 21 1/2" for shoulder or crossbody wear
       images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517430933/coach2_tuc4wn.jpg'],
       style: 'F57621',
       color: 'SVPMC',
+      SKU: 'COACH-F57621-SVPMC',
       description: 'Printed coated canvas
 Inside zip and multifunction pockets
 Zip-top closure, fabric lining

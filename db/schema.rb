@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180131180242) do
+ActiveRecord::Schema.define(version: 20180203234452) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -28,6 +28,9 @@ ActiveRecord::Schema.define(version: 20180131180242) do
     t.string "images", default: [], array: true
     t.string "samples", default: [], array: true
     t.string "brand"
+    t.string "SKU"
+    t.string "UPC"
+    t.string "leather_type"
   end
 
 end
