@@ -41,6 +41,19 @@
                 <li>Brand: <%= product.brand %></li>
                 <li>Style: <%= product.style %></li>
                 <li>Color: <%= product.color %></li>
+
+                <% if product.SKU != nil %>
+                <li>SKU: <%= product.SKU %></li>
+                <% end %>
+
+                <% if product.UPC != nil %>
+                <li>UPC: <%= product.UPC %></li>
+                <% end %>
+
+                <% if product.leather_type != nil %>
+                <li>Leather Type: <%= product.leather_type %></li>
+                <% end %>
+
                 <li>Description: <%= product.description %></li>
                 <li>Retail Price: $<%= product.retail_price %></li>
                 <!-- <li>Cost: $<%= product.price %></li> -->
