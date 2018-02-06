@@ -21,3 +21,22 @@ Coming soon...
 - Expand Business attributes to accommodate additional fields
 
 - Maybe remove null false for non-essential fields  
+
+## BRANDS SEED COMPLETION
+==============
+
+- YSL (first 12)
+
+- Coach (3)
+
+- Roberto Cavalli ()
+
+- Tory Burch ()
+
+- Rebecca Minkoff
+
+- Ralph Lauren ()
+
+- Michael Kors ()
+
+- DKNY ()
