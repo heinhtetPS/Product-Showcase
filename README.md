@@ -29,7 +29,7 @@ Coming soon...
 
 - Coach (first 10)
 
-- Roberto Cavalli ()
+- Roberto Cavalli (All bags complete, wallets remain)
 
 - Tory Burch ()
 

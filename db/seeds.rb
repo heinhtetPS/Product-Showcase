@@ -507,3 +507,284 @@ Product.create(name: 'Mini Sierra Satchel In Tea Rose Floral Print Coated Canvas
         samples: ['https://www.coach.com/shop/women-handbags-new-arrivals'])
 
 #ROBERTO CAVALLI
+
+Product.create(name: 'Luxe Shoulder Cognac',
+  brand: 'Roberto Cavalli',
+  images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517954838/rc1_gwlobq.jpg'],
+  style: 'GSB003 PZ241 03509',
+  color: 'COGNAC',
+  leather_type: 'PZ241',
+  description: 'Luxe shoulder bag with goldtone accents
+    Double top handles, 5.5'' drop
+    Removable, adjustable crossbody strap, 23'' drop
+    Open top
+    Interior zip pouch
+    Two interior open pockets
+    Metal feet
+    Goldtone hardware
+    Dust bag included
+    12.75'' L X 11'' H X 5.25'' W
+    Leather
+    Made in Italy',
+  retail_price: 1695.00,
+  price: 265.00,
+  quantity: 34,
+  samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+  Product.create(name: 'Luxe shoulder Black',
+    brand: 'Roberto Cavalli',
+    images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517954838/rc2_bkhdyo.jpg'],
+    style: 'GSB003 PZ241 05051',
+    color: 'BLACK',
+    leather_type: 'PZ241',
+    description: 'Luxe shoulder bag with goldtone accents
+      Double top handles, 5.5'' drop
+      Removable, adjustable crossbody strap, 23'' drop
+      Open top
+      Interior zip pouch
+      Two interior open pockets
+      Metal feet
+      Goldtone hardware
+      Dust bag included
+      12.75'' L X 11'' H X 5.25'' W
+      Leather
+      Made in Italy',
+    retail_price: 1695.00,
+    price: 265.00,
+    quantity: 300,
+    samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+
+    Product.create(name: 'Luxe shoulder Electric Blue',
+      brand: 'Roberto Cavalli',
+      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517954838/rc3_hwnvw4.jpg'],
+      style: 'GSB003 PZ241 03022',
+      color: 'ELECTRIC BLUE',
+      leather_type: 'PZ241',
+      description: 'Luxe shoulder bag with goldtone accents
+        Double top handles, 5.5'' drop
+        Removable, adjustable crossbody strap, 23'' drop
+        Open top
+        Interior zip pouch
+        Two interior open pockets
+        Metal feet
+        Goldtone hardware
+        Dust bag included
+        12.75'' L X 11'' H X 5.25'' W
+        Leather
+        Made in Italy',
+      retail_price: 1695.00,
+      price: 265.00,
+      quantity: 185,
+      samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+
+    Product.create(name: 'Large Tote Cognac',
+      brand: 'Roberto Cavalli',
+      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517954838/rc4_myebdk.jpg'],
+      style: 'GSB002 PZ241 03509',
+      color: 'COGNAC',
+      leather_type: 'PZ241',
+      description: 'Large tote bag in grainy leather finish
+        Double top handles, 4.72'' drop
+        Removable chain shoulder strap, 25'' drop
+        Top zip close
+        Goldtone hardware
+        Metal feet
+        Fabric lining
+        Dust bag included
+        13.4'' L X 10.63'' H X 7.09'' W
+        Leather
+        Made in Italy',
+      retail_price: 1695.00,
+      price: 265.00,
+      quantity: 242,
+      samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+
+    Product.create(name: 'Large Tote Black',
+      brand: 'Roberto Cavalli',
+      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517954838/rc5_ezhhrr.jpg'],
+      style: 'GSB002 PZ241 05051',
+      color: 'BLACK',
+      leather_type: 'PZ241',
+      description: 'Large tote bag in grainy leather finish
+        Double top handles, 4.72'' drop
+        Removable chain shoulder strap, 25'' drop
+        Top zip close
+        Goldtone hardware
+        Metal feet
+        Fabric lining
+        Dust bag included
+        13.4'' L X 10.63'' H X 7.09'' W
+        Leather
+        Made in Italy',
+      retail_price: 1695.00,
+      price: 265.00,
+      quantity: 315,
+      samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+
+    Product.create(name: 'Large Tote Electric Blue',
+      brand: 'Roberto Cavalli',
+      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517954838/rc6_je6mps.jpg'],
+      style: 'GSB002 PZ241 03022',
+      color: 'ELECTRIC BLUE',
+      leather_type: 'PZ241',
+      description: 'Large tote bag in grainy leather finish
+        Double top handles, 4.72'' drop
+        Removable chain shoulder strap, 25'' drop
+        Top zip close
+        Goldtone hardware
+        Metal feet
+        Fabric lining
+        Dust bag included
+        13.4'' L X 10.63'' H X 7.09'' W
+        Leather
+        Made in Italy',
+      retail_price: 1695.00,
+      price: 265.00,
+      quantity: 130,
+      samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+
+    Product.create(name: 'Large Tote Cognac',
+      brand: 'Roberto Cavalli',
+      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517954838/rc7_a3mmmn.jpg'],
+      style: 'GSB003 PZ241 03509',
+      color: 'COGNAC',
+      leather_type: 'PZ241',
+      description: 'Large tote bag in grainy leather finish
+        Double top handles, 4'' drop
+        Removable chain shoulder strap, 25'' drop
+        Top zip close
+        One interior zip pocket
+        Two interior open pockets
+        Goldtone hardware
+        Metal feet
+        Fabric lining
+        Dust bag included
+        13.25'' L X 13'' H X 7.5'' W
+        Leather
+        Made in Italy',
+      retail_price: 1695.00,
+      price: 265.00,
+      quantity: 372,
+      samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+
+    Product.create(name: 'Large Tote Cognac',
+      brand: 'Roberto Cavalli',
+      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517954839/rc8_slwvvv.jpg'],
+      style: 'GSB001 PZ241 05051',
+      color: 'COGNAC',
+      leather_type: 'PZ241',
+      description: 'Large tote bag in grainy leather finish
+        Double top handles, 4'' drop
+        Removable chain shoulder strap, 25'' drop
+        Top zip close
+        One interior zip pocket
+        Two interior open pockets
+        Goldtone hardware
+        Metal feet
+        Fabric lining
+        Dust bag included
+        13.25'' L X 13'' H X 7.5'' W
+        Leather
+        Made in Italy',
+      retail_price: 1695.00,
+      price: 265.00,
+      quantity: 372,
+      samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+
+  Product.create(name: 'Large Tote Electric Blue',
+    brand: 'Roberto Cavalli',
+    images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517954839/rc9_aa29oy.jpg'],
+    style: 'GSB001 PZ241 03022',
+    color: 'ELECTRIC BLUE',
+    leather_type: 'PZ241',
+    description: 'Large tote bag in grainy leather finish
+      Double top handles, 4'' drop
+      Removable chain shoulder strap, 25'' drop
+      Top zip close
+      One interior zip pocket
+      Two interior open pockets
+      Goldtone hardware
+      Metal feet
+      Fabric lining
+      Dust bag included
+      13.25'' L X 13'' H X 7.5'' W
+      Leather
+      Made in Italy',
+    retail_price: 1695.00,
+    price: 265.00,
+    quantity: 380,
+    samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+
+  Product.create(name: 'Large Tote Cognac',
+    brand: 'Roberto Cavalli',
+    images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517954839/rc10_qroqua.jpg'],
+    style: 'GSB003 PZ241 03509',
+    color: 'COGNAC',
+    leather_type: 'PZ241',
+    description: 'Large tote bag in grainy leather finish
+      Double top handles, 9'' drop
+      Top flap close
+      Goldtone hardware
+      Metal feet
+      Fabric lining
+      Dust bag included
+      15'' L X 11'' H X 7.1'' W
+      Leather
+      Made in Italy',
+    retail_price: 1695.00,
+    price: 265.00,
+    quantity: 115,
+    samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+    Product.create(name: 'Large Tote Black',
+      brand: 'Roberto Cavalli',
+      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517954839/rc11_iwe7g2.jpg'],
+      style: 'GSB004 PZ241 05051',
+      color: 'BLACK',
+      leather_type: 'PZ241',
+      description: 'Large tote bag in grainy leather finish
+        Double top handles, 9'' drop
+        Top flap close
+        Goldtone hardware
+        Metal feet
+        Fabric lining
+        Dust bag included
+        15'' L X 11'' H X 7.1'' W
+        Leather
+        Made in Italy',
+      retail_price: 1695.00,
+      price: 265.00,
+      quantity: 365,
+      samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+
+    Product.create(name: 'Large Tote Electric Blue',
+      brand: 'Roberto Cavalli',
+      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517954839/rc12_dznujw.jpg'],
+      style: 'GSB004 PZ241 03022',
+      color: 'ELECTRIC BLUE',
+      leather_type: 'PZ241',
+      description: 'Large tote bag in grainy leather finish
+        Double top handles, 9'' drop
+        Top flap close
+        Goldtone hardware
+        Metal feet
+        Fabric lining
+        Dust bag included
+        15'' L X 11'' H X 7.1'' W
+        Leather
+        Made in Italy',
+      retail_price: 1695.00,
+      price: 265.00,
+      quantity: 116,
+      samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+#TORY BURCH
