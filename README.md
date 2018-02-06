@@ -27,7 +27,7 @@ Coming soon...
 
 - YSL (first 12)
 
-- Coach (3)
+- Coach (first 10)
 
 - Roberto Cavalli ()
 
