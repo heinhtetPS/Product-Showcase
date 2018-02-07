@@ -1181,166 +1181,188 @@ Product.create(name: 'Leather Zip-Around Wallet',
   quantity: 6,
   samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
 
-  Product.create(name: 'Leather Zip-Around Wallet',
+  Product.create(name: 'Newbury Mini Double-Zip Satchel',
     brand: 'Ralph Lauren',
     images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL2_xae9bw.jpg'],
-    style: '427609109001',
-    color: 'Black',
-    UPC: '888188256088',
-    description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
-      Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
-      Top zip closure.
-      Lined with cotton. Interior zip pocket.
-      11½" H x 14" L x 6" D.
-      Leather, cotton.
-      Imported.',
+    style: '431504357028',
+    color: 'Raspberry',
+    UPC: '888188234314',
+    description: 'With a relaxed silhouette and polished brass hardware, this leather hobo bag is a versatile piece to add to your daily rotation.
+      Top handle with a 14" drop.
+      Zip closure.
+      Signature brass "LRL" monogram at the front.
+      Removable leather luggage tag with our signature "LRL" cutout plaque.
+      Lined with faille. Zip pocket, a slip pocket, and a phone pocket at the interior.
+      11" H x 12½" L x 3" D.
+      Leather, polyester.
+      Imported.
+      Includes a dust bag.',
     retail_price: 198.00,
     price: 99.00,
     quantity: 6,
     samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
 
-  Product.create(name: 'Leather Zip-Around Wallet',
+  Product.create(name: 'Newbury Double-Zip Satchel',
     brand: 'Ralph Lauren',
     images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL3_oit0mq.jpg'],
-    style: '427609109001',
-    color: 'Black',
-    UPC: '888188256088',
-    description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
-      Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
-      Top zip closure.
-      Lined with cotton. Interior zip pocket.
-      11½" H x 14" L x 6" D.
-      Leather, cotton.
-      Imported.',
-    retail_price: 198.00,
-    price: 99.00,
+    style: '431504368044',
+    color: 'Camel',
+    UPC: '888188316225',
+    description: 'Chic simplicity defines this patent leather clutch, which comes with a drop-in chain strap for modern versatility.    Chain shoulder strap with an 8¾" drop.
+      Fold-over flap with a snapped closure.
+      "Lauren Ralph Lauren" logo at the front flap.
+      Fully lined. Slip pocket at the interior.
+      5¾" H x 8" L x 1¼" D.
+      Weighs approximately 11.7 oz.
+      Leather, polyester.
+      Imported.
+      Includes a dust bag.',
+    retail_price: 278.00,
+    price: 139.00,
     quantity: 6,
     samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
 
-    Product.create(name: 'Leather Zip-Around Wallet',
+    Product.create(name: 'Tate Dome Satchel',
       brand: 'Ralph Lauren',
       images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL4_dan5rr.jpg'],
-      style: '427609109001',
+      style: '431550574002',
       color: 'Black',
-      UPC: '888188256088',
-      description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
-        Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
-        Top zip closure.
-        Lined with cotton. Interior zip pocket.
-        11½" H x 14" L x 6" D.
-        Leather, cotton.
-        Imported.',
-      retail_price: 198.00,
-      price: 99.00,
-      quantity: 6,
+      UPC: '888188149069',
+      description: 'This textured leather wallet has a slim silhouette that opens to a pocketed interior with enough room to hold all of your essentials. Carry it as an accent to your favorite bag.
+        Snap closure
+        One outside zip pocket
+        Four inside bill compartments
+        10 inside credit card slots
+        One inside ID window
+        Lined
+        7"L X 4"H X 0.5"D
+        Leather/polyurethane
+        Imported',
+      retail_price: 228.00,
+      price: 114.00,
+      quantity: 20,
       samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
 
-      Product.create(name: 'Leather Zip-Around Wallet',
+      Product.create(name: 'Tate Dome Satchel',
         brand: 'Ralph Lauren',
         images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL5_pyxwsj.jpg'],
-        style: '427609109001',
-        color: 'Black',
-        UPC: '888188256088',
-        description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
-          Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
-          Top zip closure.
-          Lined with cotton. Interior zip pocket.
-          11½" H x 14" L x 6" D.
-          Leather, cotton.
-          Imported.',
-        retail_price: 198.00,
-        price: 99.00,
-        quantity: 6,
+        style: '431550574003',
+        color: 'Lauren Tan/Coco',
+        UPC: '888188149076',
+        description: 'Richly hued leather and a clean silhouette give this domed satchel a look of elegant efficiency. By Lauren Ralph Lauren.
+          Imported
+          Leather
+          Double handles with 5" drop; Removable, adjustable shoulder strap with 19" drop
+          Top zip closure
+          Exterior features gold-tone hardware, signature "LRL" monogram, detachable leather luggage tag with "LRL"-cutout plaque and base with four protective feet
+          Exterior features zip pocket at the back
+          10" W x 13" H x 5" D
+          Imported',
+        retail_price: 228.00,
+        price: 114.00,
+        quantity: 18,
         samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
 
-        Product.create(name: 'Leather Zip-Around Wallet',
+        Product.create(name: 'Tate Dome Satchel',
           brand: 'Ralph Lauren',
           images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL6_khol1y.jpg'],
-          style: '427609109001',
-          color: 'Black',
-          UPC: '888188256088',
-          description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
-            Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
+          style: '431550574019',
+          color: 'Raspberry',
+          UPC: '888188234468',
+          description: 'Thanks to its compact shape and lightweight unlined interior, this textured faux-leather cross-body bag will effortlessly take you from morning meetings to cocktail hour.
+            Adjustable faux-leather cross-body strap with a maximum 22" drop.
             Top zip closure.
-            Lined with cotton. Interior zip pocket.
-            11½" H x 14" L x 6" D.
-            Leather, cotton.
+            Front zip pocket with a metal "LRL" monogram.
+            Removable luggage tag with a signature cutout "LRL" plaque.
+            Unlined.
+            Interior zip pocket.
+            6¾" H x 9½" L x 1¼" D.
+            Man-made materials.
             Imported.',
-          retail_price: 198.00,
-          price: 99.00,
-          quantity: 6,
+          retail_price: 228.00,
+          price: 114.00,
+          quantity: 11,
           samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
 
-        Product.create(name: 'Leather Zip-Around Wallet',
+        Product.create(name: 'Darwin Hobo Bag',
           brand: 'Ralph Lauren',
           images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL7_wm5hp6.jpg'],
-          style: '427609109001',
-          color: 'Black',
-          UPC: '888188256088',
-          description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
-            Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
-            Top zip closure.
-            Lined with cotton. Interior zip pocket.
-            11½" H x 14" L x 6" D.
-            Leather, cotton.
-            Imported.',
-          retail_price: 198.00,
-          price: 99.00,
-          quantity: 6,
+          style: '431562381005',
+          color: 'Truffle',
+          UPC: '888188289260',
+          description: 'Designed with a spacious interior, this casual bag features an elegant polished-brass "LRL" monogram and an eye-catching bright hue.
+            Faux leather top handles, 8.25" drop
+            Top zip closure
+            Polished brass "LRL" monogram
+            Inside zip pocket
+            15.75"L x 11"H x 5"D
+            Nylon
+            Imported',
+          retail_price: 278.00,
+          price: 139.00,
+          quantity: 5,
           samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
 
-        Product.create(name: 'Leather Zip-Around Wallet',
+        Product.create(name: 'Darwin Leather Satchel',
           brand: 'Ralph Lauren',
           images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL8_yi5sdg.jpg'],
-          style: '427609109001',
+          style: '431562382001',
           color: 'Black',
-          UPC: '888188256088',
-          description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
-            Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
+          UPC: '888188184282',
+          description: 'The Darwin satchel maries an elegant top-handle design with softly tumbled leather. Belted detailing adds an eye-catching accent, and a convenient shoulder strap allows for hands-free styling.
+            Two top handles, each with a 5½" handle drop.
+            Shoulder strap with an 18" drop.
+            Removable luggage tag with our signature "LRL" monogram at one of the handles.
             Top zip closure.
-            Lined with cotton. Interior zip pocket.
-            11½" H x 14" L x 6" D.
-            Leather, cotton.
+            Interior is lined with twill.
+            Two interior slip pockets, a snapped pocket and a zip pocket.
+            9½" H x 13" L x 6½" D.
+            Leather, polyester.
             Imported.',
-          retail_price: 198.00,
-          price: 99.00,
+          retail_price: 298.00,
+          price: 149.00,
           quantity: 6,
           samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
 
-        Product.create(name: 'Leather Zip-Around Wallet',
+        Product.create(name: 'Tate Messenger Bag',
           brand: 'Ralph Lauren',
           images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955042/RL9_fjmmv1.jpg'],
-          style: '427609109001',
-          color: 'Black',
-          UPC: '888188256088',
-          description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
-            Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
+          style: '431569947014',
+          color: 'Navy/Cocoa',
+          UPC: '888188212787',
+          description: 'The Charleston satchel is a sophisticated style that will take you from day to night thanks to a richly textured leather exterior and multiple interior pockets for essentials like your smartphone.
+            Two top handles, each with a 5" handle drop.
+            Shoulder strap with a 15" drop.
+            Fold-over snapped flap accented with our cutout signature "LRL" monogram.
             Top zip closure.
-            Lined with cotton. Interior zip pocket.
-            11½" H x 14" L x 6" D.
-            Leather, cotton.
+            Four protective feet at the base.
+            Lined with twill. Two slip pockets and a single zip pocket at the interior.
+            11" H x 9" L x 5" D. Weighs approximately 2 lbs.
+            Leather, polyester.
             Imported.',
           retail_price: 198.00,
           price: 99.00,
-          quantity: 6,
+          quantity: 1,
           samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
 
-        Product.create(name: 'Leather Zip-Around Wallet',
+        Product.create(name: 'Acadia Tote',
           brand: 'Ralph Lauren',
           images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955042/RL10_g04fke.jpg'],
-          style: '427609109001',
-          color: 'Black',
-          UPC: '888188256088',
-          description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
-            Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
-            Top zip closure.
-            Lined with cotton. Interior zip pocket.
-            11½" H x 14" L x 6" D.
-            Leather, cotton.
+          style: '431573329006',
+          color: 'Black / Vanilla',
+          UPC: '888188205628',
+          description: 'This zip-around wristlet is wonderfully sleek and compact, making it ideal for when youre on the go. In subtly textured leather, it also has a sophisticated sensibility and is embellished at the front with a gold-toned plaque featuring our signature "LRL" monogram. Slip the strap around your wrist or tuck it into your handbag. Wristlet strap with a 6½" drop.
+            Zip-around closure.
+            Gold-toned plaque with our cutout signature LRL monogram at the front.
+            Lined with faille.
+            Interior slip pocket.
+            4½ H x 7 L x 1 D.
+            Weighs approximately 4.5 oz.
+            Leather, polyester.
             Imported.',
-          retail_price: 198.00,
-          price: 99.00,
-          quantity: 6,
+          retail_price: 158.00,
+          price: 79.00,
+          quantity: 7,
           samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
 
 #MICHAEL KORS

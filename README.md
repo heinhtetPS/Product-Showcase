@@ -35,7 +35,7 @@ Coming soon...
 
 - Rebecca Minkoff (10/22)
 
-- Ralph Lauren (0/112)
+- Ralph Lauren (10/112)
 
 - Michael Kors (0/257)
 
