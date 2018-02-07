@@ -788,3 +788,23 @@ Product.create(name: 'Luxe Shoulder Cognac',
       samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
 
 #TORY BURCH
+
+Product.create(name: 'Color-Block Perry Tote',
+  brand: 'Tory Burch',
+  images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955015/TB1_fieezq.jpg'],
+  style: '11169940-011',
+  color: 'New Ivory / Black',
+  UPC: '190041101405',
+  description: 'Our Color-Block Perry Tote feels as good as it looks: cool slouch and buttery pebbled leather with a contrast-color interior. The roomy shape can hold a full day’s essentials, with a phone pocket and enough space for a 15" laptop and an extra pair of shoes.
+    Holds a 15" laptop, a pair of flats, a sweater, a continental wallet, a notebook, an agenda, sunglasses, an iPhone 6 Plus and a fragrance rollerball
+    Pebbled leather with resin backing
+    Open top
+    Flat leather handles with 9.4" (24 cm) drop
+    Interior hanging pocket
+    Height: 11.3" (28.5 cm)
+    Length: 14.9" (37.5 cm)
+    Depth: 5.9" (15 cm)',
+  retail_price: 450.00,
+  price: 270.00,
+  quantity: 3,
+  samples: ['https://www.toryburch.com/handbags/view-all/'])
