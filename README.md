@@ -25,18 +25,18 @@ Coming soon...
 ## BRANDS SEED COMPLETION
 ==============
 
-- YSL (first 12)
+- YSL (12/12 complete)
 
-- Coach (first 10)
+- Coach (10/45)
 
-- Roberto Cavalli (All 12 bags complete, wallets remain)
+- Roberto Cavalli (12/12 bags complete, wallets remain)
 
-- Tory Burch ()
+- Tory Burch (10/223)
 
-- Rebecca Minkoff
+- Rebecca Minkoff (10/22)
 
-- Ralph Lauren ()
+- Ralph Lauren (0/112)
 
-- Michael Kors ()
+- Michael Kors (0/257)
 
-- DKNY ()
+- DKNY (0/45)
