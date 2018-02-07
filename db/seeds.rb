@@ -1161,3 +1161,558 @@ Product.create(name: 'Mini 5 zip Crossbody',
         samples: ['https://www.rebeccaminkoff.com/collections/handbags'])
 
 #RALPH LAUREN
+#Need doctoring from here
+
+Product.create(name: 'Leather Zip-Around Wallet',
+  brand: 'Ralph Lauren',
+  images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL1_m9kxoe.jpg'],
+  style: '427609109001',
+  color: 'Black',
+  UPC: '888188256088',
+  description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
+    Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
+    Top zip closure.
+    Lined with cotton. Interior zip pocket.
+    11½" H x 14" L x 6" D.
+    Leather, cotton.
+    Imported.',
+  retail_price: 198.00,
+  price: 99.00,
+  quantity: 6,
+  samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
+
+  Product.create(name: 'Leather Zip-Around Wallet',
+    brand: 'Ralph Lauren',
+    images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL2_xae9bw.jpg'],
+    style: '427609109001',
+    color: 'Black',
+    UPC: '888188256088',
+    description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
+      Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
+      Top zip closure.
+      Lined with cotton. Interior zip pocket.
+      11½" H x 14" L x 6" D.
+      Leather, cotton.
+      Imported.',
+    retail_price: 198.00,
+    price: 99.00,
+    quantity: 6,
+    samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
+
+  Product.create(name: 'Leather Zip-Around Wallet',
+    brand: 'Ralph Lauren',
+    images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL3_oit0mq.jpg'],
+    style: '427609109001',
+    color: 'Black',
+    UPC: '888188256088',
+    description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
+      Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
+      Top zip closure.
+      Lined with cotton. Interior zip pocket.
+      11½" H x 14" L x 6" D.
+      Leather, cotton.
+      Imported.',
+    retail_price: 198.00,
+    price: 99.00,
+    quantity: 6,
+    samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
+
+    Product.create(name: 'Leather Zip-Around Wallet',
+      brand: 'Ralph Lauren',
+      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL4_dan5rr.jpg'],
+      style: '427609109001',
+      color: 'Black',
+      UPC: '888188256088',
+      description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
+        Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
+        Top zip closure.
+        Lined with cotton. Interior zip pocket.
+        11½" H x 14" L x 6" D.
+        Leather, cotton.
+        Imported.',
+      retail_price: 198.00,
+      price: 99.00,
+      quantity: 6,
+      samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
+
+      Product.create(name: 'Leather Zip-Around Wallet',
+        brand: 'Ralph Lauren',
+        images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL5_pyxwsj.jpg'],
+        style: '427609109001',
+        color: 'Black',
+        UPC: '888188256088',
+        description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
+          Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
+          Top zip closure.
+          Lined with cotton. Interior zip pocket.
+          11½" H x 14" L x 6" D.
+          Leather, cotton.
+          Imported.',
+        retail_price: 198.00,
+        price: 99.00,
+        quantity: 6,
+        samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
+
+        Product.create(name: 'Leather Zip-Around Wallet',
+          brand: 'Ralph Lauren',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL6_khol1y.jpg'],
+          style: '427609109001',
+          color: 'Black',
+          UPC: '888188256088',
+          description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
+            Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
+            Top zip closure.
+            Lined with cotton. Interior zip pocket.
+            11½" H x 14" L x 6" D.
+            Leather, cotton.
+            Imported.',
+          retail_price: 198.00,
+          price: 99.00,
+          quantity: 6,
+          samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
+
+        Product.create(name: 'Leather Zip-Around Wallet',
+          brand: 'Ralph Lauren',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL7_wm5hp6.jpg'],
+          style: '427609109001',
+          color: 'Black',
+          UPC: '888188256088',
+          description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
+            Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
+            Top zip closure.
+            Lined with cotton. Interior zip pocket.
+            11½" H x 14" L x 6" D.
+            Leather, cotton.
+            Imported.',
+          retail_price: 198.00,
+          price: 99.00,
+          quantity: 6,
+          samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
+
+        Product.create(name: 'Leather Zip-Around Wallet',
+          brand: 'Ralph Lauren',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955041/RL8_yi5sdg.jpg'],
+          style: '427609109001',
+          color: 'Black',
+          UPC: '888188256088',
+          description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
+            Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
+            Top zip closure.
+            Lined with cotton. Interior zip pocket.
+            11½" H x 14" L x 6" D.
+            Leather, cotton.
+            Imported.',
+          retail_price: 198.00,
+          price: 99.00,
+          quantity: 6,
+          samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
+
+        Product.create(name: 'Leather Zip-Around Wallet',
+          brand: 'Ralph Lauren',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955042/RL9_fjmmv1.jpg'],
+          style: '427609109001',
+          color: 'Black',
+          UPC: '888188256088',
+          description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
+            Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
+            Top zip closure.
+            Lined with cotton. Interior zip pocket.
+            11½" H x 14" L x 6" D.
+            Leather, cotton.
+            Imported.',
+          retail_price: 198.00,
+          price: 99.00,
+          quantity: 6,
+          samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
+
+        Product.create(name: 'Leather Zip-Around Wallet',
+          brand: 'Ralph Lauren',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955042/RL10_g04fke.jpg'],
+          style: '427609109001',
+          color: 'Black',
+          UPC: '888188256088',
+          description: 'With a bold chevron pattern and a spacious interior, this textured leather tote will be an instant favorite. Plus, its cotton-lined interior offers ample space for a change of clothes, making it perfect for overnight stays or weekend trips. Two top handles, each with a 9" drop.
+            Removable luggage tag with our cutout signature "LRL" monogram accents the strap.
+            Top zip closure.
+            Lined with cotton. Interior zip pocket.
+            11½" H x 14" L x 6" D.
+            Leather, cotton.
+            Imported.',
+          retail_price: 198.00,
+          price: 99.00,
+          quantity: 6,
+          samples: ['https://www.ralphlauren.com/women-accessories-handbags'])
+
+#MICHAEL KORS
+
+Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+  brand: 'Michael Kors',
+  images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors1_cvbtr7.jpg'],
+  style: '30F4GTTT9L-230',
+  color: 'Luggage',
+  UPC: '888235578019',
+  description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
+    • 100% Saffiano Leather
+    • Gold-Tone Hardware
+    • 17"W X 11"H X 5"D
+    • Handle Drop: 10"
+    • Exterior Details: 2 Side Pockets
+    • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
+    • Lining: 100% Polyester
+    • Top-Zip Fastening
+    • Imported',
+  retail_price: 268.00,
+  price: 147.40,
+  quantity: 3,
+  samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
+
+  Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+    brand: 'Michael Kors',
+    images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors2_e27yy4.jpg'],
+    style: '30F4GTTT9L-230',
+    color: 'Luggage',
+    UPC: '888235578019',
+    description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
+      • 100% Saffiano Leather
+      • Gold-Tone Hardware
+      • 17"W X 11"H X 5"D
+      • Handle Drop: 10"
+      • Exterior Details: 2 Side Pockets
+      • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
+      • Lining: 100% Polyester
+      • Top-Zip Fastening
+      • Imported',
+    retail_price: 268.00,
+    price: 147.40,
+    quantity: 3,
+    samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
+
+  Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+    brand: 'Michael Kors',
+    images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors3_jrh296.jpg'],
+    style: '30F4GTTT9L-230',
+    color: 'Luggage',
+    UPC: '888235578019',
+    description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
+      • 100% Saffiano Leather
+      • Gold-Tone Hardware
+      • 17"W X 11"H X 5"D
+      • Handle Drop: 10"
+      • Exterior Details: 2 Side Pockets
+      • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
+      • Lining: 100% Polyester
+      • Top-Zip Fastening
+      • Imported',
+    retail_price: 268.00,
+    price: 147.40,
+    quantity: 3,
+    samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
+
+    Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+      brand: 'Michael Kors',
+      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors4_tpwksj.jpg'],
+      style: '30F4GTTT9L-230',
+      color: 'Luggage',
+      UPC: '888235578019',
+      description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
+        • 100% Saffiano Leather
+        • Gold-Tone Hardware
+        • 17"W X 11"H X 5"D
+        • Handle Drop: 10"
+        • Exterior Details: 2 Side Pockets
+        • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
+        • Lining: 100% Polyester
+        • Top-Zip Fastening
+        • Imported',
+      retail_price: 268.00,
+      price: 147.40,
+      quantity: 3,
+      samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
+
+    Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+      brand: 'Michael Kors',
+      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors5_rmnqji.jpg'],
+      style: '30F4GTTT9L-230',
+      color: 'Luggage',
+      UPC: '888235578019',
+      description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
+        • 100% Saffiano Leather
+        • Gold-Tone Hardware
+        • 17"W X 11"H X 5"D
+        • Handle Drop: 10"
+        • Exterior Details: 2 Side Pockets
+        • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
+        • Lining: 100% Polyester
+        • Top-Zip Fastening
+        • Imported',
+      retail_price: 268.00,
+      price: 147.40,
+      quantity: 3,
+      samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
+
+      Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+        brand: 'Michael Kors',
+        images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors6_ycuy5o.jpg'],
+        style: '30F4GTTT9L-230',
+        color: 'Luggage',
+        UPC: '888235578019',
+        description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
+          • 100% Saffiano Leather
+          • Gold-Tone Hardware
+          • 17"W X 11"H X 5"D
+          • Handle Drop: 10"
+          • Exterior Details: 2 Side Pockets
+          • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
+          • Lining: 100% Polyester
+          • Top-Zip Fastening
+          • Imported',
+        retail_price: 268.00,
+        price: 147.40,
+        quantity: 3,
+        samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
+
+      Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+        brand: 'Michael Kors',
+        images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors7_dwlxh6.jpg'],
+        style: '30F4GTTT9L-230',
+        color: 'Luggage',
+        UPC: '888235578019',
+        description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
+          • 100% Saffiano Leather
+          • Gold-Tone Hardware
+          • 17"W X 11"H X 5"D
+          • Handle Drop: 10"
+          • Exterior Details: 2 Side Pockets
+          • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
+          • Lining: 100% Polyester
+          • Top-Zip Fastening
+          • Imported',
+        retail_price: 268.00,
+        price: 147.40,
+        quantity: 3,
+        samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
+
+        Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+          brand: 'Michael Kors',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors8_bx2fh7.jpg'],
+          style: '30F4GTTT9L-230',
+          color: 'Luggage',
+          UPC: '888235578019',
+          description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
+            • 100% Saffiano Leather
+            • Gold-Tone Hardware
+            • 17"W X 11"H X 5"D
+            • Handle Drop: 10"
+            • Exterior Details: 2 Side Pockets
+            • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
+            • Lining: 100% Polyester
+            • Top-Zip Fastening
+            • Imported',
+          retail_price: 268.00,
+          price: 147.40,
+          quantity: 3,
+          samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
+
+        Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+          brand: 'Michael Kors',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors9_ys3ypz.jpg'],
+          style: '30F4GTTT9L-230',
+          color: 'Luggage',
+          UPC: '888235578019',
+          description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
+            • 100% Saffiano Leather
+            • Gold-Tone Hardware
+            • 17"W X 11"H X 5"D
+            • Handle Drop: 10"
+            • Exterior Details: 2 Side Pockets
+            • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
+            • Lining: 100% Polyester
+            • Top-Zip Fastening
+            • Imported',
+          retail_price: 268.00,
+          price: 147.40,
+          quantity: 3,
+          samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
+
+        Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+          brand: 'Michael Kors',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors10_dppphp.jpg'],
+          style: '30F4GTTT9L-230',
+          color: 'Luggage',
+          UPC: '888235578019',
+          description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
+            • 100% Saffiano Leather
+            • Gold-Tone Hardware
+            • 17"W X 11"H X 5"D
+            • Handle Drop: 10"
+            • Exterior Details: 2 Side Pockets
+            • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
+            • Lining: 100% Polyester
+            • Top-Zip Fastening
+            • Imported',
+          retail_price: 268.00,
+          price: 147.40,
+          quantity: 3,
+          samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
+
+#DKNY
+
+Product.create(name: 'Crosby Ego Leather Crossbody',
+  brand: 'DKNY',
+  images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955101/dkny1_kdzefd.jpg'],
+  style: '741610208-054',
+  color: 'Light Grey',
+  UPC: '795730105438',
+  description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
+    Interior lining, interior zipper pocket, two interior slip pockets
+    16" L x 12" H x 3" W
+    Leather
+    Imported',
+  retail_price: 325.00,
+  price: 162.50,
+  quantity: 1,
+  samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
+
+  Product.create(name: 'Crosby Ego Leather Crossbody',
+    brand: 'DKNY',
+    images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955101/dkny2_c22gdk.jpg'],
+    style: '741610208-054',
+    color: 'Light Grey',
+    UPC: '795730105438',
+    description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
+      Interior lining, interior zipper pocket, two interior slip pockets
+      16" L x 12" H x 3" W
+      Leather
+      Imported',
+    retail_price: 325.00,
+    price: 162.50,
+    quantity: 1,
+    samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
+
+    Product.create(name: 'Crosby Ego Leather Crossbody',
+      brand: 'DKNY',
+      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955101/dkny3_kwx5y1.jpg'],
+      style: '741610208-054',
+      color: 'Light Grey',
+      UPC: '795730105438',
+      description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
+        Interior lining, interior zipper pocket, two interior slip pockets
+        16" L x 12" H x 3" W
+        Leather
+        Imported',
+      retail_price: 325.00,
+      price: 162.50,
+      quantity: 1,
+      samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
+
+      Product.create(name: 'Crosby Ego Leather Crossbody',
+        brand: 'DKNY',
+        images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955102/dkny4_vdvsin.jpg'],
+        style: '741610208-054',
+        color: 'Light Grey',
+        UPC: '795730105438',
+        description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
+          Interior lining, interior zipper pocket, two interior slip pockets
+          16" L x 12" H x 3" W
+          Leather
+          Imported',
+        retail_price: 325.00,
+        price: 162.50,
+        quantity: 1,
+        samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
+
+        Product.create(name: 'Crosby Ego Leather Crossbody',
+          brand: 'DKNY',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955102/dkny5_mgtzwe.jpg'],
+          style: '741610208-054',
+          color: 'Light Grey',
+          UPC: '795730105438',
+          description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
+            Interior lining, interior zipper pocket, two interior slip pockets
+            16" L x 12" H x 3" W
+            Leather
+            Imported',
+          retail_price: 325.00,
+          price: 162.50,
+          quantity: 1,
+          samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
+
+        Product.create(name: 'Crosby Ego Leather Crossbody',
+          brand: 'DKNY',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955102/dkny6_r2cgyl.jpg'],
+          style: '741610208-054',
+          color: 'Light Grey',
+          UPC: '795730105438',
+          description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
+            Interior lining, interior zipper pocket, two interior slip pockets
+            16" L x 12" H x 3" W
+            Leather
+            Imported',
+          retail_price: 325.00,
+          price: 162.50,
+          quantity: 1,
+          samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
+
+        Product.create(name: 'Crosby Ego Leather Crossbody',
+          brand: 'DKNY',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955102/dkny7_iph0cp.jpg'],
+          style: '741610208-054',
+          color: 'Light Grey',
+          UPC: '795730105438',
+          description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
+            Interior lining, interior zipper pocket, two interior slip pockets
+            16" L x 12" H x 3" W
+            Leather
+            Imported',
+          retail_price: 325.00,
+          price: 162.50,
+          quantity: 1,
+          samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
+
+        Product.create(name: 'Crosby Ego Leather Crossbody',
+          brand: 'DKNY',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955102/dkny8_xg42zg.jpg'],
+          style: '741610208-054',
+          color: 'Light Grey',
+          UPC: '795730105438',
+          description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
+            Interior lining, interior zipper pocket, two interior slip pockets
+            16" L x 12" H x 3" W
+            Leather
+            Imported',
+          retail_price: 325.00,
+          price: 162.50,
+          quantity: 1,
+          samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
+
+        Product.create(name: 'Crosby Ego Leather Crossbody',
+          brand: 'DKNY',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955102/dkny9_ueouh8.jpg'],
+          style: '741610208-054',
+          color: 'Light Grey',
+          UPC: '795730105438',
+          description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
+            Interior lining, interior zipper pocket, two interior slip pockets
+            16" L x 12" H x 3" W
+            Leather
+            Imported',
+          retail_price: 325.00,
+          price: 162.50,
+          quantity: 1,
+          samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
+
+        Product.create(name: 'Crosby Ego Leather Crossbody',
+          brand: 'DKNY',
+          images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955102/dkny10_kf5va5.jpg'],
+          style: '741610208-054',
+          color: 'Light Grey',
+          UPC: '795730105438',
+          description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
+            Interior lining, interior zipper pocket, two interior slip pockets
+            16" L x 12" H x 3" W
+            Leather
+            Imported',
+          retail_price: 325.00,
+          price: 162.50,
+          quantity: 1,
+          samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
