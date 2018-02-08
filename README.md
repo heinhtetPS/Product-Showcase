@@ -18,8 +18,6 @@ Coming soon...
 
 - make form for submitting new products
 
-- Expand Business attributes to accommodate additional fields
-
 - Maybe remove null false for non-essential fields  
 
 ## BRANDS SEED COMPLETION
@@ -29,7 +27,7 @@ Coming soon...
 
 - Coach (10/45)
 
-- Roberto Cavalli (12/12 bags complete, wallets remain)
+- Roberto Cavalli (12/12 bags complete, 4/4 wallets complete)
 
 - Tory Burch (10/223)
 

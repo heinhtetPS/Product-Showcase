@@ -787,6 +787,60 @@ Product.create(name: 'Luxe Shoulder Cognac',
       quantity: 116,
       samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
 
+#WALLETS
+
+Product.create(name: 'Opaque Leather with Embossed Logo',
+  brand: 'Roberto Cavalli',
+  images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1518049155/rcw1_o3cnqn.jpg'],
+  style: 'GSA006-PZ1725051',
+  color: 'Black',
+  leather_type: 'PZ172',
+  description: 'Opaque Leather with Embossed Logo
+    Dimensions: Width 7.7 In; Height 3.9 In; Deep 0.8 In',
+  retail_price: 495.00,
+  price: 130.00,
+  quantity: 885,
+  samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+  Product.create(name: 'Embossed Dollar Print',
+    brand: 'Roberto Cavalli',
+    images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1518049155/rcw2_cnftgm.jpg'],
+    style: 'GSA009-PZ2415051',
+    color: 'Black',
+    leather_type: 'PZ241',
+    description: 'Embossed Dollar Print Logo
+      Dimensions: Width 7.7 In; Height 3.9 In; Deep 0.8 In',
+    retail_price: 495.00,
+    price: 130.00,
+    quantity: 821,
+    samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+  Product.create(name: 'Dollar Print with Embossed Logo',
+    brand: 'Roberto Cavalli',
+    images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1518049155/rcw3_zisedc.jpg'],
+    style: 'GSA012-PZ0305051',
+    color: 'Black',
+    leather_type: 'PZ030',
+    description: 'Dollar Print with Embossed Logo
+      Dimensions: Width 7.7 In; Height 3.9 In; Deep 0.8 In',
+    retail_price: 495.00,
+    price: 130.00,
+    quantity: 1437,
+    samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
+    Product.create(name: 'Embossed Dollar Print',
+      brand: 'Roberto Cavalli',
+      images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1518049155/rcw4_pkd5h4.jpg'],
+      style: 'GSA007-PZ2415051',
+      color: 'Black',
+      leather_type: 'PZ241',
+      description: 'Embossed Dollar Print Logo
+        Dimensions: Width 4.9 In; Height 4.3 In; Deep 0.8 In',
+      retail_price: 495.00,
+      price: 130.00,
+      quantity: 419,
+      samples: ['http://www.robertocavalli.com/us_en/woman/bags-and-accessories/bags-and-small-leather-goods.html'])
+
 #TORY BURCH
 
 Product.create(name: 'Color-Block Perry Tote',
@@ -1161,7 +1215,6 @@ Product.create(name: 'Mini 5 zip Crossbody',
         samples: ['https://www.rebeccaminkoff.com/collections/handbags'])
 
 #RALPH LAUREN
-#Need doctoring from here
 
 Product.create(name: 'Leather Zip-Around Wallet',
   brand: 'Ralph Lauren',
