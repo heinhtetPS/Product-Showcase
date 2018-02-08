@@ -37,6 +37,6 @@ Coming soon...
 
 - Ralph Lauren (10/112)
 
-- Michael Kors (0/257)
+- Michael Kors (10/257)
 
-- DKNY (0/45)
+- DKNY (10/45)

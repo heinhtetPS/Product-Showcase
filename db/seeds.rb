@@ -1388,198 +1388,193 @@ Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
   quantity: 3,
   samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
 
-  Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+  Product.create(name: 'Selma Medium Top-Zip Satchel',
     brand: 'Michael Kors',
     images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors2_e27yy4.jpg'],
-    style: '30F4GTTT9L-230',
-    color: 'Luggage',
-    UPC: '888235578019',
-    description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
-      • 100% Saffiano Leather
-      • Gold-Tone Hardware
-      • 17"W X 11"H X 5"D
-      • Handle Drop: 10"
-      • Exterior Details: 2 Side Pockets
-      • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
-      • Lining: 100% Polyester
-      • Top-Zip Fastening
-      • Imported',
-    retail_price: 268.00,
-    price: 147.40,
+    style: '30F5SLMS2T-755',
+    color: 'Denim / Pale Blue / Acorn',
+    UPC: '190049388747',
+    description: 'A striking silhouette is always a fabulous compliment to your favorite looks with this satchel!
+      Made of saffiano leather.
+      Zipper closure.
+      Rolled handles with adjustable crossbody strap.
+      Signature logo hardware.
+      Flat base with metal feet.
+      Lined interior includes zipper pocket and two slip pockets.
+      Imported.
+      Measurements:
+      Bottom Width: 11 in
+      Depth: 4 in
+      Height: 8 in
+      Strap Length: 42 1⁄2 in
+      Strap Drop: 10 in
+      Handle Length: 15 in
+      Handle Drop: 4 in
+      Weight: 1 lb 13.2 oz',
+    retail_price: 298.00,
+    price: 163.90,
     quantity: 3,
     samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
 
-  Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+  Product.create(name: 'Emry Large Logo Tote',
     brand: 'Michael Kors',
     images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors3_jrh296.jpg'],
-    style: '30F4GTTT9L-230',
-    color: 'Luggage',
-    UPC: '888235578019',
-    description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
-      • 100% Saffiano Leather
-      • Gold-Tone Hardware
-      • 17"W X 11"H X 5"D
-      • Handle Drop: 10"
-      • Exterior Details: 2 Side Pockets
-      • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
+    style: '30F6AE4T7V-968',
+    color: 'Natural/ Denim',
+    UPC: '190864481487',
+    description: 'Designed in a spacious East-West silhouette, our Emry tote is an on-the-go essential, equipped to hold a laptop, umbrella and more. Durable coated canvas, our heritage logo print and minimal hardware combine for a refined aesthetic, while dual carrying options lend added versatility.
+      • 100% Coated Canvas
+      • Rhodium-Tone Hardware
+      • 20"W X 11.5"H X 6.5"D
+      • Handle Drop: 9.5"
+      • Interior Details: Zip Pocket, 3 Open Pockets
       • Lining: 100% Polyester
-      • Top-Zip Fastening
       • Imported',
-    retail_price: 268.00,
-    price: 147.40,
+    retail_price: 328.00,
+    price: 179.64,
     quantity: 3,
     samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
 
-    Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+    Product.create(name: 'Emry Large Top Zip Tote',
       brand: 'Michael Kors',
       images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors4_tpwksj.jpg'],
-      style: '30F4GTTT9L-230',
-      color: 'Luggage',
-      UPC: '888235578019',
-      description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
-        • 100% Saffiano Leather
-        • Gold-Tone Hardware
-        • 17"W X 11"H X 5"D
-        • Handle Drop: 10"
-        • Exterior Details: 2 Side Pockets
-        • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
-        • Lining: 100% Polyester
-        • Top-Zip Fastening
-        • Imported',
-      retail_price: 268.00,
-      price: 147.40,
-      quantity: 3,
+      style: '30F6AE4T7V-969',
+      color: 'Natural / Luggage',
+      UPC: '190049388815',
+      description: 'Designed in a spacious East-West silhouette, our Emry tote is an on-the-go essential, equipped to hold a laptop, umbrella and more. Durable coated canvas, our heritage logo print and minimal hardware combine for a refined aesthetic, while dual carrying options lend added versatility.
+      -Coated Canvas
+      -Brushed Nickel Hardware
+      -20"W X 11.5"H X 6.5"D
+      -Handle 9.5"
+      -Interior: 1 Zipper Pocket, 3 Open Pockets
+      -Lining: 100% Polyester
+      -Imported',
+      retail_price: 328.00,
+      price: 147.60,
+      quantity: 21,
       samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
 
-    Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+    Product.create(name: 'Mercer Large Heritage Signature Tote',
       brand: 'Michael Kors',
       images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors5_rmnqji.jpg'],
-      style: '30F4GTTT9L-230',
-      color: 'Luggage',
-      UPC: '888235578019',
-      description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
-        • 100% Saffiano Leather
-        • Gold-Tone Hardware
-        • 17"W X 11"H X 5"D
-        • Handle Drop: 10"
-        • Exterior Details: 2 Side Pockets
-        • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
-        • Lining: 100% Polyester
-        • Top-Zip Fastening
+      style: '30F6AM9T3V-001',
+      color: 'Black',
+      UPC: '190049679081',
+      description: 'Crafted from coated canvas and printed with our heritage signature logo, our streamlined Mercer tote is a thoughtful update to a timeless silhouette. Tuck important items—such as your keys, phone and wallet—in the median zippered compartment, and carry it by its elegant top handles or go hands-free with the removable shoulder strap.
+        • 100% Coated Canvas
+        • Silver-Tone Hardware
+        • 12.25"W X 9.5"H X 5.5”D
+        • Handle Drop: 6.5”
+        • Adjustable Strap: 22"-25"
+        • Interior Details: Center Zip Compartment With Slip Pocket, Zip Pocket
+        • Interior: 100% Textured Coated Canvas
+        • Pocket Lining: 100% Polyester
         • Imported',
-      retail_price: 268.00,
-      price: 147.40,
-      quantity: 3,
+      retail_price: 298.00,
+      price: 134.10,
+      quantity: 16,
       samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
 
-      Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+      Product.create(name: 'Mercer Large Heritage Signature Tote',
         brand: 'Michael Kors',
         images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors6_ycuy5o.jpg'],
-        style: '30F4GTTT9L-230',
-        color: 'Luggage',
-        UPC: '888235578019',
-        description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
-          • 100% Saffiano Leather
-          • Gold-Tone Hardware
-          • 17"W X 11"H X 5"D
-          • Handle Drop: 10"
-          • Exterior Details: 2 Side Pockets
-          • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
-          • Lining: 100% Polyester
-          • Top-Zip Fastening
-          • Imported',
-        retail_price: 268.00,
-        price: 147.40,
-        quantity: 3,
+        style: '30F6AM9T3V-969',
+        color: 'Natural/Luggage',
+        UPC: '190049388914',
+        description: 'Crafted from coated canvas and printed with our heritage signature logo, our streamlined Mercer tote is a thoughtful update to a timeless silhouette. Tuck important items—such as your keys, phone and wallet—in the median zippered compartment, and carry it by its elegant top handles or go hands-free with the removable shoulder strap.
+        • 100% Coated Canvas
+        • Gold-Tone Hardware
+        • 12.25"W X 9.5"H X 5.5”D
+        • Handle Drop: 6.5”
+        • Adjustable Strap: 22"-25"
+        • Interior Details: Center Zip Compartment With Slip Pocket, Zip Pocket
+        • Interior: 100% Textured Coated Canvas
+        • Pocket Lining: 100% Polyester
+        • Imported',
+        retail_price: 298.00,
+        price: 134.10,
+        quantity: 17,
         samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
 
-      Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+      Product.create(name: 'Studio Paisley Emry Large Top Zip Tote',
         brand: 'Michael Kors',
         images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors7_dwlxh6.jpg'],
-        style: '30F4GTTT9L-230',
-        color: 'Luggage',
-        UPC: '888235578019',
-        description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
-          • 100% Saffiano Leather
-          • Gold-Tone Hardware
-          • 17"W X 11"H X 5"D
-          • Handle Drop: 10"
-          • Exterior Details: 2 Side Pockets
-          • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
-          • Lining: 100% Polyester
-          • Top-Zip Fastening
-          • Imported',
-        retail_price: 268.00,
-        price: 147.40,
+        style: '30F6APIT8V-001',
+        color: 'Black',
+        UPC: '190049680209',
+        description: 'Premium coated canvas marked by signature emblems and heritage-inspired paisley lends a classic look to MICHAEL Michael Kors endlessly versatile top-zip tote.
+          Large sized bag; 19"W x 11"H x 7"D
+          Interior features lining, 1 zip pocket and 3 open pockets
+          9-1/2"L double handles
+          Zip closure
+          Exterior features logo lettering
+          brushed nickel-tone hardware
+          MK Heritage Paisley Coated Canvas
+          Imported',
+        retail_price: 378.00,
+        price: 189.00,
         quantity: 3,
         samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
 
-        Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+        Product.create(name: 'Emry Large Heritage Paisley Tote',
           brand: 'Michael Kors',
           images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors8_bx2fh7.jpg'],
-          style: '30F4GTTT9L-230',
+          style: '30F6APIT8V-230',
           color: 'Luggage',
-          UPC: '888235578019',
-          description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
-            • 100% Saffiano Leather
-            • Gold-Tone Hardware
-            • 17"W X 11"H X 5"D
-            • Handle Drop: 10"
-            • Exterior Details: 2 Side Pockets
-            • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
-            • Lining: 100% Polyester
-            • Top-Zip Fastening
-            • Imported',
-          retail_price: 268.00,
-          price: 147.40,
-          quantity: 3,
+          UPC: '190049680216',
+          description: 'Part of Kors Studio collection of exceptional leather goods, the Emry tote is designed in an elegant new interpretation of the classic MK logo with a sophisticated tonal paisley. The custom paisley was hand-drawn and hand-colored in the designer’s studio, while the pattern is digitally printed in Italy on premium-quality coated canvas.
+            -Kors Studio Collection
+            -100% Cotton
+            -Brushed Nickel Hardware
+            -19"W X 11"H X 7"D
+            -9.5" Handle Drop
+            -Lining: 100% Polyester
+            -Imported',
+          retail_price: 378.00,
+          price: 189.00,
+          quantity: 4,
           samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
 
-        Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+        Product.create(name: 'Raven Large Shoulder Bag',
           brand: 'Michael Kors',
           images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors9_ys3ypz.jpg'],
-          style: '30F4GTTT9L-230',
+          style: '30F6GRXL3L-230',
           color: 'Luggage',
-          UPC: '888235578019',
-          description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
-            • 100% Saffiano Leather
-            • Gold-Tone Hardware
-            • 17"W X 11"H X 5"D
-            • Handle Drop: 10"
-            • Exterior Details: 2 Side Pockets
-            • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
-            • Lining: 100% Polyester
-            • Top-Zip Fastening
-            • Imported',
-          retail_price: 268.00,
-          price: 147.40,
-          quantity: 3,
+          UPC: '190049683545',
+          description: 'Supple pebble leather creates a luxurious look and great hand feel on this well-appointed shoulder bag from MICHAEL Michael Kors that hangs from a wide strap punctuated by gleaming, oversized grommets.
+            Large sized bag; 11"W x 7-1/2"H x 3-3/4"D
+            Interior features lining, 1 zip pocket, 3 pockets, 1 tech pocket and dog-clip key holder
+            21"L to 26"L adjustable strap
+            Zip closure
+            Exterior features gold-tone hardware and logo lettering
+            Pebble leather; lining: polyester. Imported.',
+          retail_price: 348.00,
+          price: 174.00,
+          quantity: 6,
           samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
 
-        Product.create(name: 'Jet Set Large Top-Zip Saffiano Leather Tote',
+        Product.create(name: 'Ava Jewel Small Top Handle Satchel',
           brand: 'Michael Kors',
           images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955065/mkors10_dppphp.jpg'],
-          style: '30F4GTTT9L-230',
-          color: 'Luggage',
-          UPC: '888235578019',
-          description: 'Jet setters, take note: this sophisticated, multi-tasking tote is the ultimate travel accomplice. Crafted from Saffiano—a matte leather that’s both distinctive and durable—it sports a look that’s chic yet understated. A multitude of pockets keeps you organized, while the top-zip design ensures your essentials stay put, wherever you may go.
-            • 100% Saffiano Leather
-            • Gold-Tone Hardware
-            • 17"W X 11"H X 5"D
-            • Handle Drop: 10"
-            • Exterior Details: 2 Side Pockets
-            • Interior Details: Padded Tablet Sleeve, 2 Open Pockets, Zip Pocket, Key Fob
-            • Lining: 100% Polyester
-            • Top-Zip Fastening
-            • Imported',
-          retail_price: 268.00,
-          price: 147.40,
-          quantity: 3,
+          style: '30F6MAVS1M-040',
+          color: 'Silver',
+          UPC: '190049684788',
+          description: 'Glittering rhinestones arranged like floral brooches add dazzling femininity to a perfectly-proportioned MICHAEL Michael Korss satchel furnished with an optional long strap for hands-free wear.
+            Small sized bag; 7-1/2"W x 5-1/2"H x 3"D
+            Interior features 1 zip pocket and 1 open pocket
+            3"L top handle; 22"-24"L adjustable strap
+            Magnetic snap closure
+            Exterior features shiny rhodium-tone hardware, crystal embellishments and 1 back slit pocket
+            Saffiano leather; lining: polyester
+            Imported',
+          retail_price: 328.00,
+          price: 147.60,
+          quantity: 9,
           samples: ['https://www.michaelkors.com/handbags/view-all-handbags/_/N-283i'])
 
 #DKNY
 
-Product.create(name: 'Crosby Ego Leather Crossbody',
+Product.create(name: 'Crosby Ego Leather Crossbody Light Grey',
   brand: 'DKNY',
   images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955101/dkny1_kdzefd.jpg'],
   style: '741610208-054',
@@ -1595,12 +1590,12 @@ Product.create(name: 'Crosby Ego Leather Crossbody',
   quantity: 1,
   samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
 
-  Product.create(name: 'Crosby Ego Leather Crossbody',
+  Product.create(name: 'Crosby Ego Leather Crossbody Desert',
     brand: 'DKNY',
     images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955101/dkny2_c22gdk.jpg'],
-    style: '741610208-054',
-    color: 'Light Grey',
-    UPC: '795730105438',
+    style: '741610208-228',
+    color: 'Desert',
+    UPC: '795730105476',
     description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
       Interior lining, interior zipper pocket, two interior slip pockets
       16" L x 12" H x 3" W
@@ -1611,130 +1606,149 @@ Product.create(name: 'Crosby Ego Leather Crossbody',
     quantity: 1,
     samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
 
-    Product.create(name: 'Crosby Ego Leather Crossbody',
+    Product.create(name: 'Black Crosby Zip Wallet',
       brand: 'DKNY',
       images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955101/dkny3_kwx5y1.jpg'],
-      style: '741610208-054',
-      color: 'Light Grey',
-      UPC: '795730105438',
-      description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
-        Interior lining, interior zipper pocket, two interior slip pockets
-        16" L x 12" H x 3" W
-        Leather
+      style: '741622001-001',
+      color: 'Black',
+      UPC: '795730108156',
+      description: 'Pebbled leather exterior, zip around closure, gold-tone logo detail at front
+        Interior lining, interior gusseted compartments, center zip compartment, card-and-bill slots
+        7 1/2" L x 4" H x 7/8" W
+        Leather body
         Imported',
-      retail_price: 325.00,
-      price: 162.50,
-      quantity: 1,
+      retail_price: 108.00,
+      price: 54.00,
+      quantity: 3,
       samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
 
-      Product.create(name: 'Crosby Ego Leather Crossbody',
+      Product.create(name: 'Saffiano Chain Crossbody Black',
         brand: 'DKNY',
         images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955102/dkny4_vdvsin.jpg'],
-        style: '741610208-054',
-        color: 'Light Grey',
-        UPC: '795730105438',
-        description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
-          Interior lining, interior zipper pocket, two interior slip pockets
-          16" L x 12" H x 3" W
-          Leather
-          Imported',
-        retail_price: 325.00,
-        price: 162.50,
-        quantity: 1,
+        style: 'T1200216-BLK',
+        color: 'Black',
+        UPC: '686098019256',
+        description: 'A classic crossbody design is revitalized for the new season with a classic logo plaque at the front of the sleekly structured leather exterior and a detachable shoulder strap. Featuring a shorter strap with a gleaming chain detail, this design can double as a shoulder bag, showing that you can go compact and still have compatibility.
+          Top zip fastening
+          Rounded top handle
+          Iconic logo plaque
+          Detachable/adjustable chain and leather shoulder strap
+          Dimensions (inches): 9L x 4.75H x 2W; Drop (inches): 9 & 22.',
+        retail_price: 155.00,
+        price: 77.50,
+        quantity: 2,
         samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
 
-        Product.create(name: 'Crosby Ego Leather Crossbody',
+        Product.create(name: 'Saffiano Chain Crossbody Light Coral',
           brand: 'DKNY',
           images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955102/dkny5_mgtzwe.jpg'],
-          style: '741610208-054',
-          color: 'Light Grey',
-          UPC: '795730105438',
-          description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
-            Interior lining, interior zipper pocket, two interior slip pockets
-            16" L x 12" H x 3" W
-            Leather
-            Imported',
-          retail_price: 325.00,
-          price: 162.50,
-          quantity: 1,
+          style: 'T1200216-COR',
+          color: 'Light Coral',
+          UPC: '686098019287',
+          description: 'A classic crossbody design is revitalized for the new season with a classic logo plaque at the front of the sleekly structured leather exterior and a detachable shoulder strap. Featuring a shorter strap with a gleaming chain detail, this design can double as a shoulder bag, showing that you can go compact and still have compatibility.
+            Top zip fastening
+            Rounded top handle
+            Iconic logo plaque
+            Detachable/adjustable chain and leather shoulder strap
+            Dimensions (inches): 9L x 4.75H x 2W; Drop (inches): 9 & 22.',
+          retail_price: 155.00,
+          price: 77.50,
+          quantity: 8,
           samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
 
-        Product.create(name: 'Crosby Ego Leather Crossbody',
+        Product.create(name: 'Saffiano Chain Crossbody Sand',
           brand: 'DKNY',
           images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955102/dkny6_r2cgyl.jpg'],
-          style: '741610208-054',
-          color: 'Light Grey',
-          UPC: '795730105438',
-          description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
-            Interior lining, interior zipper pocket, two interior slip pockets
-            16" L x 12" H x 3" W
-            Leather
-            Imported',
-          retail_price: 325.00,
-          price: 162.50,
-          quantity: 1,
+          style: 'T1200216-SAN',
+          color: 'Sand',
+          UPC: '686098019270',
+          description: 'A classic crossbody design is revitalized for the new season with a classic logo plaque at the front of the sleekly structured leather exterior and a detachable shoulder strap. Featuring a shorter strap with a gleaming chain detail, this design can double as a shoulder bag, showing that you can go compact and still have compatibility.
+            Top zip fastening
+            Rounded top handle
+            Iconic logo plaque
+            Detachable/adjustable chain and leather shoulder strap
+            Dimensions (inches): 9L x 4.75H x 2W; Drop (inches): 9 & 22.',
+          retail_price: 155.00,
+          price: 77.50,
+          quantity: 7,
           samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
 
-        Product.create(name: 'Crosby Ego Leather Crossbody',
+        Product.create(name: 'Saffiano Chain Crossbody Silver',
           brand: 'DKNY',
           images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955102/dkny7_iph0cp.jpg'],
-          style: '741610208-054',
-          color: 'Light Grey',
-          UPC: '795730105438',
-          description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
-            Interior lining, interior zipper pocket, two interior slip pockets
-            16" L x 12" H x 3" W
-            Leather
-            Imported',
-          retail_price: 325.00,
-          price: 162.50,
-          quantity: 1,
+          style: 'T1200216-SIL',
+          color: 'Silver',
+          UPC: '686098019263',
+          description: 'A classic crossbody design is revitalized for the new season with a classic logo plaque at the front of the sleekly structured leather exterior and a detachable shoulder strap. Featuring a shorter strap with a gleaming chain detail, this design can double as a shoulder bag, showing that you can go compact and still have compatibility.
+            Top zip fastening
+            Rounded top handle
+            Iconic logo plaque
+            Detachable/adjustable chain and leather shoulder strap
+            Dimensions (inches): 9L x 4.75H x 2W; Drop (inches): 9 & 22.',
+          retail_price: 155.00,
+          price: 77.50,
+          quantity: 8,
           samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
 
-        Product.create(name: 'Crosby Ego Leather Crossbody',
+        Product.create(name: 'Crosshatch Saffiano Crossbody Black',
           brand: 'DKNY',
           images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955102/dkny8_xg42zg.jpg'],
-          style: '741610208-054',
-          color: 'Light Grey',
-          UPC: '795730105438',
-          description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
-            Interior lining, interior zipper pocket, two interior slip pockets
-            16" L x 12" H x 3" W
-            Leather
+          style: 'T1240221-BLK',
+          color: 'Black',
+          UPC: '802892996948',
+          description: 'Crosshatch Saffiano
+            Silver-tone hardware
+            Flap closure with a magnetic pop button fastening
+            DKNY logo iconic plaque
+            Slip pocket to the back
+            Interior 1 slip pocket
+            Chain link shoulder strap with an adjustable leather panel to the centre, 22" drop
+            Fabric Lining
+            7L x 6.5H x 2W
             Imported',
-          retail_price: 325.00,
-          price: 162.50,
-          quantity: 1,
+          retail_price: 175.00,
+          price: 87.50,
+          quantity: 3,
           samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
 
-        Product.create(name: 'Crosby Ego Leather Crossbody',
+        Product.create(name: 'Crosshatch Saffiano Crossbody Sand',
           brand: 'DKNY',
           images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955102/dkny9_ueouh8.jpg'],
-          style: '741610208-054',
-          color: 'Light Grey',
-          UPC: '795730105438',
-          description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
-            Interior lining, interior zipper pocket, two interior slip pockets
-            16" L x 12" H x 3" W
-            Leather
+          style: 'T1240221-SAN',
+          color: 'Sand',
+          UPC: '802892996924',
+          description: 'Crosshatch Saffiano
+            Silver-tone hardware
+            Flap closure with a magnetic pop button fastening
+            DKNY logo iconic plaque
+            Slip pocket to the back
+            Interior 1 slip pocket
+            Chain link shoulder strap with an adjustable leather panel to the centre, 22" drop
+            Fabric Lining
+            7L x 6.5H x 2W
             Imported',
-          retail_price: 325.00,
-          price: 162.50,
-          quantity: 1,
+          retail_price: 175.00,
+          price: 87.50,
+          quantity: 8,
           samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
 
-        Product.create(name: 'Crosby Ego Leather Crossbody',
+        Product.create(name: 'Crosshatch Saffiano Crossbody Silver',
           brand: 'DKNY',
           images: ['http://res.cloudinary.com/dooqsrgbq/image/upload/v1517955102/dkny10_kf5va5.jpg'],
-          style: '741610208-054',
-          color: 'Light Grey',
-          UPC: '795730105438',
-          description: 'Pebbled leather exterior, top zipper closure, top handle, metal logo plaque
-            Interior lining, interior zipper pocket, two interior slip pockets
-            16" L x 12" H x 3" W
-            Leather
+          style: 'T1240221-SIL',
+          color: 'Silver',
+          UPC: '802892996931',
+          description: 'Crosshatch Saffiano
+            Silver-tone hardware
+            Flap closure with a magnetic pop button fastening
+            DKNY logo iconic plaque
+            Slip pocket to the back
+            Interior 1 slip pocket
+            Chain link shoulder strap with an adjustable leather panel to the centre, 22" drop
+            Fabric Lining
+            7L x 6.5H x 2W
             Imported',
-          retail_price: 325.00,
-          price: 162.50,
-          quantity: 1,
+          retail_price: 175.00,
+          price: 87.50,
+          quantity: 4,
           samples: ['https://www.donnakaran.com/category/dkny/bags/totes.do'])
