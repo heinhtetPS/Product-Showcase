@@ -5,7 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Products</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+    <script type="text/javascript">
+        function dropdown() {
+          document.getElementById("dropdown-menu").classList.toggle("show")
+        }
+    </script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <%= stylesheet_link_tag "application" %>
   </head>
@@ -13,21 +18,22 @@
     <div class="page-container">
 
       <h1 class="main-title">Available Products</h1>
+
       <div class="dropdown">
-       <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">
+       <button class="btn btn-primary dropdown-toggle" type="button" onclick="dropdown()">
          Choose Brand
        <span class="caret"></span></button>
-         <ul class="dropdown-menu">
-           <li><a href="products">All</a></li>
-           <li><a href="?sort=random">Random Sample</a></li>
-           <li><a href="?brand=Coach">Coach</a></li>
-           <li><a href="?brand=DKNY">DKNY</a></li>
-           <li><a href="?brand=Michael Kors">Michael Kors</a></li>
-           <li><a href="?brand=Ralph Lauren">Ralph Lauren</a></li>
-           <li><a href="?brand=Rebecca Minkoff">Rebecca Minkoff</a></li>
-           <li><a href="?brand=Roberto Cavalli">Roberto Cavalli</a></li>
-           <li><a href="?brand=Tory Burch">Tory Burch</a></li>
-           <li><a href="?brand=Yves Saint Laurent">Yves Saint Laurent</a></li>
+         <ul class="dropdown-menu" id="dropdown-menu">
+           <li><a class="dropdown-item" href="products">All</a></li>
+           <li><a class="dropdown-item" href="?sort=random">Random Sample</a></li>
+           <li><a class="dropdown-item" href="?brand=Coach">Coach</a></li>
+           <li><a class="dropdown-item" href="?brand=DKNY">DKNY</a></li>
+           <li><a class="dropdown-item" href="?brand=Michael Kors">Michael Kors</a></li>
+           <li><a class="dropdown-item" href="?brand=Ralph Lauren">Ralph Lauren</a></li>
+           <li><a class="dropdown-item" href="?brand=Rebecca Minkoff">Rebecca Minkoff</a></li>
+           <li><a class="dropdown-item" href="?brand=Roberto Cavalli">Roberto Cavalli</a></li>
+           <li><a class="dropdown-item" href="?brand=Tory Burch">Tory Burch</a></li>
+           <li><a class="dropdown-item" href="?brand=Yves Saint Laurent">Yves Saint Laurent</a></li>
          </ul>
        </div>
 

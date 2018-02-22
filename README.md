@@ -20,6 +20,8 @@ Coming soon...
 
 - Maybe remove null false for non-essential fields  
 
+- Fix broken bootstrap dropdown
+
 ## BRANDS SEED COMPLETION
 ==============
 
