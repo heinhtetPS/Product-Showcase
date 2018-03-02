@@ -22,6 +22,10 @@ Coming soon...
 
 - Start styling each brand (font, icons, color palette)
 
+- Logic for theme change is mostly complete, need to fill in with changes and css
+
+- need to fix css for generic nav, put footer
+
 ## BRANDS SEED COMPLETION
 ==============
 

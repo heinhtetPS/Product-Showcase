@@ -1,0 +1,21 @@
+.logospace {
+  width: 100%;
+  height: 100px;
+  background-color: black;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.invis {
+  display: none;
+}
+
+.logopic {
+  width: 185px;
+  height: 85px;
+}
+
+.Coach {
+  font-family: termina, sans-serif;
+}
