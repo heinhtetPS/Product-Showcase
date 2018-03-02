@@ -8,7 +8,45 @@
     <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
     <script type="text/javascript">
         function dropdown() {
-          document.getElementById("dropdown-menu").classList.toggle("show")
+          $('.dropdown-menu').toggle("show")
+        }
+
+        $(document).ready(function () {
+          switch (window.location.href.split("=")[1]) {
+              case "Coach":
+                console.log("The Theme is Coach");
+              break;
+              case "DKNY":
+                  console.log("The Theme is DKNY");
+              break;
+              case "Michael%20Kors":
+                  console.log("The Theme is Michael Kors");
+              break;
+              case "Ralph%20Lauren":
+                  console.log("The Theme is Ralph");
+              break;
+              case "Rebecca%20Minkoff":
+                  console.log("The Theme is MINK");
+              break;
+              case "Roberto%20Cavalli":
+                  console.log("The Theme is ROBERTO");
+              break;
+              case "Tory%20Burch":
+                  console.log("The Theme is BURCH");
+              break;
+              case "Yves%20Saint%20Laurent":
+                  console.log("The Theme is YSL");
+              break;
+              case "random":
+                  console.log("The Theme is Random");
+              break;
+            default:
+              console.log("The theme is default");
+          }
+        });
+
+        function changeTheme(themeName) {
+          
         }
     </script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
