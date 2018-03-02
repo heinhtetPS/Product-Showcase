@@ -20,7 +20,7 @@ Coming soon...
 
 - Maybe remove null false for non-essential fields  
 
-- Fix broken bootstrap dropdown
+- Start styling each brand (font, icons, color palette)
 
 ## BRANDS SEED COMPLETION
 ==============
