@@ -38,10 +38,10 @@
                   changeTheme("Yves Saint Laurent");
               break;
               case "random":
-                  console.log("The Theme is Random");
+                  changeTheme("default");
               break;
             default:
-              console.log("The theme is default");
+                  changeTheme("default");
           }
         });
 
@@ -50,55 +50,57 @@
               case "Coach":
                 $('.main-title').text("Coach Products")
                 $('.main-title').addClass("Coach")
-                $('#logospace').removeClass("invis")
+                $('#logospace').show()
                 $('.logopic').attr('src', 'https://www.coach.com/on/demandware.static/Sites-Coach_US-Site/-/default/dw8e2473dc/images/logo-us.svg')
               break;
               case "DKNY":
                 $('.main-title').text("DKNY Products")
                 $('.main-title').addClass("DKNY")
-                $('#logospace').removeClass("invis")
+                $('#logospace').show()
                 $('.logopic').attr('src', 'https://www.donnakaran.com/images/donnakaran/en_us/global/globalnav/logo-small.png')
               break;
               case "Michael Kors":
                 $('.main-title').text("Michael Kors Products")
                 $('.main-title').addClass("Kors")
-                $('#logospace').removeClass("invis")
+                $('#logospace').show()
                 $('.logopic').attr('src', 'https://www.michaelkors.com/img/logo_mk.png')
               break;
               case "Ralph Lauren":
                 $('.main-title').text("Ralph Lauren Products")
                 $('.main-title').addClass("Ralph")
-                $('#logospace').removeClass("invis")
+                $('#logospace').show()
                 $('.logopic').attr('src', 'https://www.ralphlauren.com/on/demandware.static/Sites-RalphLauren_US-Site/-/default/v1519992010771/images/logo.svg')
               break;
               case "Rebecca Minkoff":
                 $('.main-title').text("Rebecca Minkoff Products")
                 $('.main-title').addClass("Mink")
-                $('#logospace').removeClass("invis")
+                $('#logospace').show()
                 //this logo is constructed from individual letter svgs
               break;
               case "Roberto Cavalli":
                 $('.main-title').text("Roberto Cavalli Products")
                 $('.main-title').addClass("Roberto")
-                $('#logospace').removeClass("invis")
+                $('#logospace').show()
                 //this logo is just text
               break;
               case "Tory Burch":
                 $('.main-title').text("Tory Burch Products")
                 $('.main-title').addClass("Burch")
-                $('#logospace').removeClass("invis")
+                $('#logospace').show()
                 $('.logopic').attr('src',
                 'https://static.toryburch.com/static/on/demandware.static/Sites-ToryBurch_US-Site/-/default/v1520022625883/themes/demandwarestore/images/tb_logo_navy.svg')
               break;
               case "Yves Saint Laurent":
                 $('.main-title').text("Yves Saint Laurent Products")
                 $('.main-title').addClass("YSL")
-                $('#logospace').removeClass("invis")
+                $('#logospace').show()
                 $('.logopic').attr('src', 'http://logo-logos.com/wp-content/uploads/2016/11/Yves_Saint_Laurent_logo_YSL.png')
               break;
-              default:
+              case "default":
                 $('.main-title').text("Available Products")
-                $('#logospace').addClass("invis")
+                $('#logospace').hide()
+              break;
+              default:
             }
         }
     </script>
